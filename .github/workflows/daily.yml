@@ -1,0 +1,31 @@
+name: 오늘의 금융·경제 이슈
+
+on:
+  schedule:
+    - cron: "0 21 * * *"   # 매일 06:00 (한국시간)
+  workflow_dispatch:        # Actions 탭에서 수동 실행
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r requirements.txt
+      - name: 수집·선별·요약
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TZ: Asia/Seoul
+        run: python run_daily.py
+      - name: 결과 저장
+        run: |
+          git config user.name "news-bot"
+          git config user.email "news-bot@users.noreply.github.com"
+          git add docs
+          git commit -m "daily: $(TZ=Asia/Seoul date +%F)" || echo "변경 없음"
+          git push
