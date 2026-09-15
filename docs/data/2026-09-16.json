@@ -1,0 +1,300 @@
+{
+  "date": "2026-09-16",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "증시·환율",
+      "score": 69,
+      "title": "美 10년물 국채금리 5% 재돌파…2007년 이후 최고치",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026091544946",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260915151151008",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260915123200009",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WdVVXUDM4dF85UXlhd3BCYlBpVFA0b0wwRDl4eFE5UkYtZzJiaWFQUmhfMEFMWk1feGdRRjk2a2tCVEl6Y3MwZDE1dC1IX1YtcHJUNk1ZakVuOXZSajlPZmt5TC1HampwY3F5Z0Z4ZEh2UEJ10gF0QVVfeXFMT1Z1VVdQMzh0XzlReWF3cEJiUGlUUDRvTDBEOXh4UTlSRi1nMmJpYVBSaF8wQUxaTV94Z1FGOTZra0JUSXpjczBkMTV0LUhfVi1wclQ2TVlqRW45dlJqOU9ma3lMLUdqanBjcXlnRnhkSHZQQnU?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE81U1pZX2NJSHVOSUwzeWJrS2xKM0xWbDluNVVTZlo5bF9ya1lwU2RUYmlUQkR3Z3piYktJQkxWaDlQX2hNVnVMS25VZ0RWX3o3Tl9hbzJXTWpMTW1XZmNOLTI3TXZkTFJiZFp1djlwQkE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5pVEZLZEdNQzgwQUZpbHVKNlYtZUhVT2N4OE5GcjJxZ05FRFRTS3M3Y3Nfa0JHZ2hWaFFjSnBUdkVXb2ozWl9XdUpzdGR0S1YwT08tR2RYMGRwbWlXV3pZOFlQV0NtZkZFV2xuWE4tcWY?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VWFRQdFRGb3R5c1k1bXZTby1xMDdFR2FvNjJNcU45MXVsSWpFRWF5aHA2Y3E1QTJlcmhkWVhSbFJGNUhVZ1RmOUR5Qk9BQUZIbWhlWE9jd2FfcGFUbktFWWdqNnpqOU1KWlp6S0FONkc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFB1YVpNT3NLY2Z6YW5URzYtUGxzVWM5SF9GcXg0dnJYLTZHOFYwR1NxSFRhTDZEeExTVTUxUUdnenBHYUYzSjZ4c2JMdElqbUtQX01ES1ZReUxkcGFzLWIxWjZEV1BLVklpWG82cGF1bTZsMlJW0gF0QVVfeXFMUHVhWk1Pc0tjZnphblRHNi1QbHNVYzlIX0ZxeDR2clgtNkc4VjBHU3FIVGFMNkR4TFNVNTFRR2d6cEdhRjNKNnhzYkx0SWptS1BfTURLVlF5TGRwYXMtYjFaNkRXUEtWSWlYbzZwYXVtNmwyUlY?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PalpCY09NVDlvNTc2bUhRYWhQclROSlBFbkdRVkt4UmZDWERQejZ1blFpaUk3bmszNUdPbnZBT29ncWJXeFVaMWRWdExzTFNaR1FlSW1rckZKamduM2s0d3FTVlFqdkow0gFuQVVfeXFMTnNEai1FbVFPYmF2Q3VyWjdrRGtPVzNPRk9VZ1ZyRTRsN2VqVHF2TlF3alg2bTFZaDE0UXRTSnJMVWRFZ3Q3cEZ2Q3NVOU1ad1pCeVY0b1RIMFFRTEJZVS1jRUEwTTdhenBtYjJBaVE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzcjB1S2xuX2hFNjc5Nk04ZFN4OE9Xek9kRGF1WXo2bEJ3SktwLXkxTmF4YnVKNVA3ZjF3ZXlVYmktdkgwdW5LQ3pUTlBhWUdnUkZ1OXNDUWJYYm9PMDBxUVFJcjhXaTBnLUJfOV9ha2tKSm1QalM5ZHNyYw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZE1QYnk2amVPRzJIbXl4bUlwaS11elpzYTZ5am5hNmtKalRobE1Zd01PamtzR0JFeFh5MkFxWUtQM0dTZ1BIQWMwN2swTlZFYTM3QW1ISnpCSTlCYW01Zk0tYmY0N0FHX0U2cmpaWkxpYlUxc0NaZEZuRnNDQ01idVM5VdIBlwFBVV95cUxPUkRhQ3JzWUpkWlUwTHRWNHR0ZXh3bHdaMHl3TUtXNTJUS2czNXZyVGFrcTBEaWJoRC1oaWVSc0NrZmkzd3pzTkstOExrLVFORGkxYmUtcU15enVVR2hkaWd5aDdBYVpLWWlmRjY1MEYzc1lPdUlQdFFCdi1qTTB3MERMbXltM2ctM0VaUl9GWkJSdHhCXzln?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "금리·정책",
+      "score": 68,
+      "title": "한은 \"AI 확산에 수도권·비수도권 노동시장 격차 확대 위험\"",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260915077300002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE8xM1lsNW5fUkY5RzBaYzNzWW5mbGs5MVJFUEstblZHRXJsYnBMb3d3NzZQMUxQbG1OREZwY0dSRTBaSE5uRDVRb3NfTmtITFJoVlVDMWpSc1ZSaGJ5Rnl6T29OVndNUlR3ZUg5dF91SE1UVXFG?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20091294",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20091009",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008754118&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "부동산",
+      "score": 62,
+      "title": "주담대 변동금리 5개월 만에 상승세 멈춰…코픽스 3.18%(종합)",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260915125751002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260915125700002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9SZE1ydnYwaWwxbnU3VGJ1Mk81NVFEeFVMV1BWeWFFdzFwVXVDa0djZ2I3U1pKTzNLTC05UHF6RkNCanJkU3RPMWVGMEluTHg1VE5Xd25QUnZWYl9hRUJyRkFrbk1uZUNlVm96RFExT0bSAXRBVV95cUxNMUJSRnpva3R5VUJnWnZzeGhOMGx3X0szN0FmRUlMV0dxTmZvWG5SZGRDS21YeGhjc3AwZWZyb3ZfZDRvQnA4Z0hXeFhsMC0wNnRXbkljWmV3NjFCbkNVRHRTd2ROWmowVzV4cnFtTTFpT2FJZQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008754261&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1iYU9sbmlwOWM4aXRlaUlQdVlaZWcwRDJwY3oyYnRxTWZFLVBmVmIwQ1pwT0l6UHh5cldhYldsb1k1cHBQUlNiZmtSQUp5VmJmdERZZ2t0b0Y4QQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "은행",
+      "score": 60,
+      "title": "기업은행, 변동형 주담대 2달 여만에 접수 재개",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026091565251",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260915095500002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1oYm5SUmJRWDVzT1MzNEVSRFN6ZExhb05tdzdPRGlpMHNvZ21wbjNuSllSckdtdS1vU05TbU5pOHVxSFVpVHFGYXdLVnZMejU0YXd1N2c5ZEZwUQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zVDN1c2k1bEFnSTdveS1ucFpmRG1nT3RmX2FGR2FOb1c0WTBnWXJlM2w3QWp4ZkU4T0xTRXpOa0dfaHg1cDV4clZWUldIcWM3aExlYWFn?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "금리·정책",
+      "score": 57,
+      "title": "코스피, 금리·유가·AI 속도조절론 부담속 0.8%↓…나흘째 하락(종합)",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE16ZWJlRnhyMjltd0FrWExhRnhuaHYxbktnQ05BcjFZWElvR21HMFlQcTJCNU91d3F4cWNaWFVzYUd4bEY0VHZPTHBuV3BKTkRNOEJldWN5YlhicEXSAWBBVV95cUxPZmliWjN0cnhtVEtZbGhNQl9iTWFPa3NNRHVQaTgzeVJzWHctMGhkUnVVWG9xay1JbHl5R0piVUFZYzNRME4yOXQteWlTNEo1OU80Y2xFNnkyc1JWQkN2X1A?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5ISk9CQmhfMnZiSHI1VEJWRWNUSDgweDBVN2VTMW1nSzdjcVY5VnJFLVY3R1R1SXZVRGkwNjIxRDlFZGhFN1BNQVZLelhQcWVvQ3FQMl9QWFBWUGNkbXF5TkRFV1pSU3ZlbF9PckVoOGJieEZ6?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20090930",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBmajVmMjVkZUVaQ0JES2d5a2NoanBwTktBS2dQTC0yYnRCcDkwajZqSjlBRUZST1FzUU5Ea3RKT1E5YUd3NmY3YWlONmlQQ01ycXI1QUU2V19pQQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "category": "금리·정책",
+      "score": 56,
+      "title": "금융위원회, 제5차 「금융업권 생산적 금융협의체」 개최 - 지주사, 보험사, 증권사, 정책금융기관과 생산적 금융 Fact book 등 생산적 금융 내재화 방안 논의",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "금융위원회",
+          "tier": "S",
+          "link": "https://www.fsc.go.kr/no010101/87711",
+          "reuse": "공공누리 유형 확인",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
