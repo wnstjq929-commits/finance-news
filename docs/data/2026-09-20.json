@@ -1,0 +1,90 @@
+{
+  "date": "2026-09-20",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "금리·정책",
+      "score": 60,
+      "title": "한은, 퇴임한 이창용에 매달 700만원…자문 기록은 \"관리 안 해\"",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260918089600002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNb003RXJOQWMxaDdyUmRwRXhrQjFIOGtEUFVfX2VBaFN6QlRQNDBNUVEtQjVISjY0d3M3RVkxMmRFcTd5ZExGQ3oySmRqZE9NRmdkaEpsbnlwTjAyblMtZmI2TThwSW9UellmSjNwWlVsTktxWGpGSnE0OE5pVndFVA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008761285&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5WM3A4RkxjcWIyWUg4UTBGa214YWFWRS1JNGNjR0w1d2hraFJtZzhnWHR1RmJ2TG9SRi13TU9LdzdCRGx3QU5GWnpLMjFWQThwVHNKNGhn?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "금리·정책",
+      "score": 57,
+      "title": "금융위 올해 소송 절반 패소에…홍콩 ELS 과징금 장고",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260919032400002",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "은행",
+      "score": 56,
+      "title": "상반기 인터넷은행 개인사업자 대출 8.3조…1년 새 50% 증가",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260919052300002",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
