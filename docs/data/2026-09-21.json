@@ -1,0 +1,132 @@
+{
+  "date": "2026-09-21",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "금리·정책",
+      "score": 59,
+      "title": "\"한·미 장기금리 동조화…최대 요인은 인플레이션\" |",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260919018900002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5jd0FSVlR2emFLT0VrWjEwX2R4TG81Y2VlbGdqdkh5azNnQllweVVqS3BNd2QyMENxQTBsWnJRTHluaFdzUGR0Z2NYZkpULURHWnNJNldXVDQtM2ZrQnc2UVVIQWpoUURSaGR6aWw4OFQ0WFRP?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20092970",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5wVmVEcmJnUzJDbkQyWlU1ZjA5WW9Yb1dSUFoxUWdQRjkwdmNVUS1ycHR5TzBwQjlPd05faURPZDZac2F6b2FLeGE0d2tlZjgtMjFXcQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "부동산",
+      "score": 58,
+      "title": "현대건설, 도시정비사업 수주액 2년 연속 10조원 돌파",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260920015100003",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260920014400003",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5CaHBBWW94ZlJCeFcwNzczX3BScVNLUFFOdXhUcUN0MkpFYW5DcmdoWWp6MFRLZTJ1Z3VOYUxINVVvT0pyLTNFb3dGWW5jN0FtV1dCYVRZd2lHZGRzYXpjcGN0TEZJYk54LWozY2xCRHc4d2VW?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20093199",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20092987",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20092977",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1uVUpTbUFSODlUdXQyX085OFZiZGlRWXY3aWpWSUx5SWJaZ2Y1SWhpaXc3amxzNnduaGF3UGhlMDF0UFBIQWc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE15cWtxbFQ1T0x2cWJwN3pOWU5GeXNtOTcxWUFacFFqaTBvQTExOGJpdG5XMW8weTJfbS11cWxPai01T2RDS1E?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBJc09LVjNxQ3djODhRS1d1WloyNVNKamZQN1Q4b0l3YTI0T0VuYUY1bmxWRHp3NlBNQ3cySGJDS1NjMzBtUmVpTmNkQ2FuRnl4bnVGTWl6VUo3R09kTzZWZ2hBNjdYTEVMRXfSAW9BVV95cUxQajdyTjV0d3RaUUR4cjljQjdpR1hlcXJVOGw3aFZlSVZjcW5GeHc5eFQ0WFRkajRwMkRNYXkxSzN0QXFoN1YxNDBoY2dpbDJFZS1xbGVUQ0N2cjBHVXI5UEg1a3c5M2Z3QWZiVi1nem8?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE53Nk9LRG1JZ2pLNFFqMm5JN09abWg4eDZGdHprLWxUS0FJbVRvN0hFWjVYTWlNSVctXzl3d0MwRUpMWnFMcFhIT3hmeG8xVUtqSTRMTHJxYnNqREp1Tkg0Slc2VTRIQVRfWmfSAW9BVV95cUxPdGxNbXBfOE93QWVuR2EwTE5MUDZqbUZ0TDhyRHdrbWhYYzhVZmVyaFVIYlAzaU9YSnoxMWhSbmxDYkNCb0I0MDkxQXlUWE5FY2w1ZDdsYWhISFFlUkxEN2V0TDRhZ1ZjbFhSY3liOW8?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
