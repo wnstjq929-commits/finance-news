@@ -1,0 +1,97 @@
+{
+  "date": "2026-09-25",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "부동산",
+      "score": 61,
+      "title": "서울 아파트 매매가격 85주째 상승…최장 상승기간 동률",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/202609244946i",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026092449106",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260924028000003",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20094817",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://www.mk.co.kr/news/economy/12160908",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5zTzhGM3RUSExuLTlLY1ljWk9pdlowYml3N0x4MndwUmp3bmlaVkU0ZnZUU0ZHMDdkTmhhNVFNX0EtaU1vMEE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBFY1NrMGU1WTFCY1BxMzRiYWE4MG5sZ3pxMl9DWEp0VjExQ0xJYnFZdGJWbUVPTzZjckZkd0NKN0tBMnZGeGNFaVZaYXpZQmpHeTBZSXNvTlhwWnlBQUFpRGtvUTlLYk9FZUNkOFU1TzdNa19MQ21DQmZ4WQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBkZnFsUzN6QXZ0c2lLTVhmeGlHbmdyNVhrMldMbEpyaFJMS0c1Sk4tRHltQVNUUmlSbktDNmxhQ2s3Rjc1ektBa3I5OEUwMkhfM3hCZ3E3SUpHbVlNRGREQ1prVDZyVnJFcEFwR0xVT19GR1E?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UOVVUMkxIamVxQi1WNVhJb0tzVFpiTzg5ZXprQS1lcUhkekh1UUg1TENCNXpsdjZtNUo3TU1XQXBJeXlPLTItQU1CRGNOVUxYWHFOTFlmZFVUSDTSAWBBVV95cUxQSGx2SEhSNTdFaFotanZHNDJ2alpTS01MWDZyTldLa0drNzltbnk1SGM0MURVVGRWV1RwRXpGU3FRVDVwUUU4TjBHS2FCTjhqbEtZWjdOcWhscGFxRWxTZmc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44cnFuZXlRa1B1TURWY1RHMjJKSU91SFFlMFF2OHVPR28wd1lJRFVINDZ2Z3ZPWExxTDFQQ1F2aTZsNnVTMUxzMWxGWDFFdUZQazZnZVppVlI1el9nOXI4NtIBeEFVX3lxTE5RZ3hhQV9IUTFHTHZUZHdtTHNwUFBYdVpIZFhPTFQ2SVNkQW1oRkVSNERURTNPN20tVzBBUkNoZWNMVjdZdC15U2t6Q0U0Mkgtcjc2d1hUZ3lIRWl6cE9xQlNhM3k4emdxdGM2dHNlelMzRV9kUW9PMg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5jUmVQTEVqYXJrN2RyRnNOcW1hMHppSURmTF9TaVhTa2pWOXROTEFZVjRzcmFyNUFjdC1YU0QyMURZY2I0N0VkaE1EenNsV1hYMTRVeHdVclJvLTBRRXJxdtIBeEFVX3lxTE01Y0ktbDNnMUlNQ3AyMlY3T2xVZ3ZScEJvQkVia0tELUt2aE9rT0RNRXluZUZ6VE55RGs3aW1nOVhXcUZ1ZnBEOXRfT00tQjZFSzQ4VHBNbVFVSFRaaGlyVVhsWkdqWVpIcWFPejNFd1ctN1djdUZucg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
