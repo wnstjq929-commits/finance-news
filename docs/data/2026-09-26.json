@@ -1,0 +1,27 @@
+{
+  "date": "2026-09-26",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "금리·정책",
+      "score": 58,
+      "title": "'자산토큰화반' 신설한 한은, 국채 토큰화 속도내나",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260923196200002",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
