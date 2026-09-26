@@ -1,0 +1,55 @@
+{
+  "date": "2026-09-27",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "금리·정책",
+      "score": 61,
+      "title": "\"한은 총재가 종목 추천해준다?\"…유명인 사칭 SNS 기승",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026092663157",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260924040800002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5jRjc2djhNMGxIWFF1dFMwSE0tbHhHelFfd3R2Y2ZEZjBhV0RVbzQ1cHdkTjEyZmk5R2xZZDh1OWdhNmVwNGc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008770792&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5nMjBqS2NkTmxSLTVlOFVlZ3JkaHFvV3lfNlVPYXJtQ1JVOXpydWxHX1pkV3ZEcnAzNUNtQmUxeHJUMUFwX29RMEhEVGhDVE43SHozNNIBWkFVX3lxTE0zcjF6eVpmM3piczV6Y3FGeGViLWVRVEFyb1Z1bE9DOHdhbm9OYmYtWksxT3hDZHFQczVCaWtQMDhlN1pZUmtWX29jYlZsakk0eUE1VG1razZaZw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
