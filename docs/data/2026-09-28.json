@@ -1,0 +1,153 @@
+{
+  "date": "2026-09-28",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "증시·환율",
+      "score": 73,
+      "title": "수출호조·환율안정에 제조업 경기전망 개선…반도체 역대 최대",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260927016500003",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMM3ltN0xFUWRSbTIxRUNhV0NKWUhsV1N5dkc2VjZXb3UteHQtdzczSVhnRGlzd3M5Q2QtRUlNU1ktOUQwTnRYNmRJZ0V4TjBjNmlNeTNmRnRyQ1N1eUdkNF9wbUpqWmNwRVVRMEpCenk?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://www.mk.co.kr/news/economy/12162185",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://www.mk.co.kr/news/economy/12162006",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmdWdHhmUTJ5VE5yV3ZUUlU5dEhGOGhXQ3FHcl9IM2J4eFNZcU40WGppaGZWX0RCcUxGaXl2VmI0dkFib0o1QmlCbFJsRVVBWjlsRGJXTFNzNUQxdVRHeFpJVExtM3pxQ29weGVxb2xNMDFGSm1BaDI1TlU3Y3EweHV1YmXSAZgBQVVfeXFMUDNmQWx1OEw1alJkSE96OWIxbFU2ckhCd2l6T2JzM3NmU2NpTmxFalZjWk9YNTFyeVlibkkwUXVMaEl0RGZUZ25SdmljM05DQnFmMlkzdllISmxKTlZqZmxmMlFiSDFyZUlkZWxudENvN29lS2Nmd0ZWM2h5MzJkbkk5dWlZS19SNWpMSEk0Xy1aeGRscHV3Ty0?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "증시·환율",
+      "score": 62,
+      "title": "올해 주요 재테크 수익률 1위는 코스피200 ETF",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026092775007",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5NVm5DeDNoNTRLSlBfU3pWeERJdnRpQkRrZFRTa1N5ZkltTUJqM2MxX0NJQkJqdUhKVVpjNEJNbWJrQ21RUWcya0VGcmtBemVWWjc5T2lCZjR3VmptR0NrbNIBYEFVX3lxTE5NVm5DeDNoNTRLSlBfU3pWeERJdnRpQkRrZFRTa1N5ZkltTUJqM2MxX0NJQkJqdUhKVVpjNEJNbWJrQ21RUWcya0VGcmtBemVWWjc5T2lCZjR3VmptR0NrbA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008771316&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9RWmNJR2Y2WjlmTEh1TGg5QnFwRmI1d1c0WEFtNlNSQ3ZENXNMbEhyOVZPS29HZk1qVnJ2NlZZYjF3ZmNoM3dibm5jZXlwSE1TYWRjYXlwLVIydw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "금리·정책",
+      "score": 55,
+      "title": "이형일, 첫 경제현안간담회…전기차 정책 논의",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/202609277830i",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260927051000002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1NRTJGUDNtLTJKS3ZoaFZsSl90TWIxMXREUjFwRXVtak0zMUhqNWdrWEVJQ0F4ekRBMURSRW5KbXhkUmh1Ni1DV1NJX2pTb1lPeHNkZldlaXpITnZQMkE5StIBYEFVX3lxTE1NRTJGUDNtLTJKS3ZoaFZsSl90TWIxMXREUjFwRXVtak0zMUhqNWdrWEVJQ0F4ekRBMURSRW5KbXhkUmh1Ni1DV1NJX2pTb1lPeHNkZldlaXpITnZQMkE5Sg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VUkJsSVVDLVEySkowRmtBTFhpeElwekZtb0VuTmtnc0ZUZUI1NHJPSEdEMTBGaV9ubGdJR0JpY0RWNkR4SFJRUE5ZMDNhbk1ubjJZel92MjdFRnd1RVFnb21NS2dxcGJZcFI3dHJQMk0?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5VNVYtQ0QzUEFuWW5hT2xrWTRfdHNpcTc1VTdadWJPVGsxNDcyRnpoWUhHejlJRWxta0hBRWFlaHhHakJRSk10LUxQV1Fmdnpob0k0SGhidjFzQUpaaVk2SjNNYkFOY3YzbjNXNVh0UC1oNHM?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE14ZWNXbGNLS3Q4Y2VlUVJmZTYxUHFvVndRdzlzZ1padnNzVDduZ3dGbGtfc0VRam8xckkyUmMtXzhCUWhVN1NkZXRPd2gzNjhZNjQ2cTZB?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
