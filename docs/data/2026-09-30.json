@@ -1,0 +1,237 @@
+{
+  "date": "2026-09-30",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "증시·환율",
+      "score": 64,
+      "title": "'美국채 금리 악재' 코스피, 0.27% 하락 마감",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260929141000008",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260929132200008",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5UX2FFQ0NJa0t1U1Vaa0dMc0RGRUxnRWl5QUpWMlhpZTlPRFhTc3hwYkVPeEd5TnRlOTgwVnR2eTBkU3NtQW5fb1V5LVhHcG81UkVUd3FfTTJ5cFhSRlNuY1dFdnpKTkE40gFuQVVfeXFMTUlya3FJOEVQeDFwZ2pRVDJYNk1SaEJSVUxvYW1qdDFDdjR5aVJGUmI2cXhrV1l6RTZBWXczREhoempUYmtUckd2MnNfM2JOV2o0eVUwMXZycnpUUk9WeG1lY0hERTlMQ3hpZzFjNmc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNMDRyeVpCRGlERk5XcE5QcUg5UmQtLU93SDlUeThqclJjUUI1OUd1SUJmUnRrZ0FYSUllVmtrV0JacEI1c3ZtVU1IVmo0QUFFM1BCU3FFVldua3NaQjVFRlJVLU5JOTlpeXRWemxrQTFZZnRVRVHSAXtBVV95cUxQM2swalJWU19hR0l0YVRadmVkZ0wybjJET3BaUVJRMk1HWXE2VTFJRElsNjljQmVtYWNvOTlCUlVlYl8wYWlpZnA1dUF2dzNudTVxbXJZN2p2RzNNSTNIa0xRQVNTbFpER09SejVSNl9zZGRTWThmU0ItcUU?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE11b1c5R0gxdkUyNldUSV9mS3M3eEZVMmNabmE1aTZjNVN2eDVPV2Y3cUZ3X3ZyUDBHcnlhX0U4OG9rTFlCa1NyenVkYnQ0WWt2R1V4VHc5ZzFURGp5Uy1DcWItNVFZblR50gFuQVVfeXFMTVNQNVI2QXp0Rlo1WENQS0lCUkpxNmxVU1lGTWFYMWlkcUhzemVPaWFrVU9fbDhjS2ZHc3pXeWlZYThCR1NhNGVlUER1a1o1ZFhMNUY1Tzlra3BPOG45TlFHNTBwYThFY1phQWVRV0E?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1jcFpWMS01VGdoMlVCYmZCNXM5SjExbnlWTTQwUDlJVGxYMk1ycms0eXJFQkxkYUFQdGJtWHRwa2Uwc3luNXprY2N5VEg0NlBOXzJTejBOdjR0R2JHczdlMnR6N1JKRGd40gFuQVVfeXFMT1hZOFVxWmZQenB6cTNtUGFvNXlEajRZZTd3ZENHTVFIWXp5V29QU1NBdldsRnV5a0JQT2NxMVlnbzNYbHNVYmt6SHFrNGYwZE1LbEtacFdEVHhIZWxGQ2l5d3B5UWhsa3ZTbklqUkE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE42VTM0M0tKTDFnMlpJWkZsWXZnTnR6RWEzYllJdnVyOWZ1dG5WdnNQQkU0X09XTEptSGlqdzlFUm0ycm51WGxIWEJWamVyaE5wVDhiZ1JaYWFTck42YjR0V3NPRUN4V2RHNEFCSE51Q2thdmtjVkZYSzc2RQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBtaXIzODh0TzhqRlZnQWxtQXZjYlU1RW9Kb2hVNEdSa1lIanA0NFI2UUQ1MHExNFNzNmk1VnVNYkt4UGJxTmpiMnhvM3ZfaU4tZXlNUXdWN202ejTSAWBBVV95cUxOUHRGSW9rb1JLMXNDTkVkNXNnVWs1MXIyOTRtWjdkak5iZm82ek9EMXgxUEJxdHU4RDhGYTExT1BCLVM2czE1OEVmRFpQZWhCVXdKc19FOGNONkF6UGFISnY?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1PQm9jUEp5bV9xbXFHbWg1Y2RGSFlQY0hsQkVPQ3FTT0tzOXdIX1ltaUxiR0xVZF8zWU1DeERoWXhla1dxVEdrX3RReXhqMzljYTlnTWtLdjE5QjhWeVdkTNIBYEFVX3lxTE1PQm9jUEp5bV9xbXFHbWg1Y2RGSFlQY0hsQkVPQ3FTT0tzOXdIX1ltaUxiR0xVZF8zWU1DeERoWXhla1dxVEdrX3RReXhqMzljYTlnTWtLdjE5QjhWeVdkTA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9XY0JIZ2FCMS1ET1VJY253X3N4QWdrdlJpSWxINHFLX0tkckllTzNtSHU2SjdyYkEyUER4S3VrNVlsVUplMF9jcVNHTDVFTWlDUjZ1TDBONVZIdVItUTZ4X9IBYEFVX3lxTE9XY0JIZ2FCMS1ET1VJY253X3N4QWdrdlJpSWxINHFLX0tkckllTzNtSHU2SjdyYkEyUER4S3VrNVlsVUplMF9jcVNHTDVFTWlDUjZ1TDBONVZIdVItUTZ4Xw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TS1dGaC1ScWVwNVZIM0hPbGljMVVWQzA0ZEdwYXV0RHJRMGppUnVPUEY4ZlotazNFVzRyNHRTWC1lVzNsWi12azU2N0FnUVNGNGRLWGtTdjBmNGdueThzV9IBYEFVX3lxTE5TS1dGaC1ScWVwNVZIM0hPbGljMVVWQzA0ZEdwYXV0RHJRMGppUnVPUEY4ZlotazNFVzRyNHRTWC1lVzNsWi12azU2N0FnUVNGNGRLWGtTdjBmNGdueThzVw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BZXZpdFVDM1NkZkEyZWJJUGNnTFdVQ0tqYl9sbHhJZmlCNW5JNEdIcjRkcHB4UTdvQXRwOF8ybldIbk9sYjd1LU1RcC00dWVWblAyUHFBOXZtNDBjMWJ6ctIBYEFVX3lxTE9BZXZpdFVDM1NkZkEyZWJJUGNnTFdVQ0tqYl9sbHhJZmlCNW5JNEdIcjRkcHB4UTdvQXRwOF8ybldIbk9sYjd1LU1RcC00dWVWblAyUHFBOXZtNDBjMWJ6cg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE91ZUlrX3dpcXNSSTUxS3FNbzdWempwUGViRzFJOS1WbGhKNG01YUl6WjZNVTJrTmoxVFJfak1Jdm4wOWxETkVwM0tkNGtkRmh0eGVNZFVYWVNmeHR1YndVadIBYEFVX3lxTE91ZUlrX3dpcXNSSTUxS3FNbzdWempwUGViRzFJOS1WbGhKNG01YUl6WjZNVTJrTmoxVFJfak1Jdm4wOWxETkVwM0tkNGtkRmh0eGVNZFVYWVNmeHR1YndVaQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9VT3FaT1RqMnRRV1hwWmxmVEJLSXY0SF9vd21VQk1vV19BV3Jtd2theTlCUXNDU3o4ZkpjSl90dVVMaUFXYTJlVDZwN3NKeHBBeTBibEREWElBUQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "증시·환율",
+      "score": 59,
+      "title": "美국채 금리 부담에 약보합 마감…다우 0.26% 하락 [뉴욕증시 브리핑]",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026093032656",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0YkM4T2pBalFlVURJdE1nTzliM3hQdlBPTGp5N2tUc09hMVAyWHBOVU4xXzZ3LU1ZMkItN1I4TnBUMjYwekJrN0h4R3dZU2x3MF9DMUVKa21JU2lVZkpoNExCbkVTMlBf0gFuQVVfeXFMTUQyRWJRRG8yTmJhVnNWdjZlbDRhQ3c2WVVBbTZsaWIyRUFJNWlvTnU0bEg3T2ZzQ0N6b01TSC0tdUdhMC14RmRkSFh0TWhqUE1QWmVwTHA0RVVFTnFsY1d2cl9vNXZvRzRLU0xWMlE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBMaUF3cHRkWTNoMVFoY2ZVdXBLN0JJcXd4WXZkMWdmNGJ3VTFJRElRdVRfZThQOFE0ZmYtU3RJdTJORURRc2YySXUxM1ZJd040c0VLOV80eW1lWnZpOXZvWW9NQmVCWWlHRk5sR2c0Z0JiM1dvY2l3aFdJQQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5qV1gweHV3VkNuM2RmS1dqSnNzMHBQQUhLNy1EVi1PdExqSFVKWlAzcEV1YmRvVnBaMGxka2JvZmZ6MjdjZnZFLVowaG1IenF2UWlGSEJjRHFucU1ZcXlPTjhCdWp6VmNDQ0x6RFNWWlFZLW82dGZUNEpBMA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1adUFaaDlReFcycloyS2dXVkdRdVdkdkFZMDNqMjdQZFNYUHh3X3lDSDhCUElKWXJ4Q0JUNV94YUdoZWVMX2l4SGdEcnVNby1WaXYyVllrbWtaWTR4aGZPNFlsN0tJSFHSAWxBVV95cUxObDhNSGtjdF9VWERRWVJMYWkzcWxKWUZERXBhR1VUcnM4clV2X2ZDR2V6WnRrenRqMW9GdmJnQWR0bHJDX3N6c2R5WEtPUEt3TkdTbUpIajdBY2V6dWVaTC1JRjZQNThkNnJxbUw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1yVHNNcm9sNEhyajF6SnZFbld4WUpFb0xZY2dKZTg5ckJqRHkyM0Vhb29ab3lWZ29aVmhEMXBUQjN3VWxTRXg5UkFnQnJ0cUI0Rmh0NnFLSmgycG9RelgzejR6bTczT3PSAWxBVV95cUxPLUYySWYxT2RZblBFM2hrdkFFT3JsUHJjMlY4UjV0dVhtZkpEc2ZxWVFWTlV2cGpmTWRYWGphcG1KSFNXNm1OWm9nYjRXOEtNSWhOcUxSeEhhZWtwbjd5NHllTjBiajdBNG9aTWs?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "은행",
+      "score": 57,
+      "title": "한국은행, 정부와 상의해 외환보유액 순위 삭제했다",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20260929176700002",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "은행",
+      "score": 56,
+      "title": "- 한국은행 전자도서관",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국은행",
+          "tier": "S",
+          "link": "https://news.google.com/rss/articles/CBMiPkFVX3lxTFBuNjFjTFdFMDJrRnJaaHNxYkF0bFl4cHFCcWR1MlVwOTUwZG9ySE5jaTBlRkFvcUZvQS1JOUR3?oc=5",
+          "reuse": "공공누리 유형 확인",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "은행",
+      "score": 55,
+      "title": "한국은행 BANK OF KOREA",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국은행",
+          "tier": "S",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPY256OWVRSUU2d2tyRk5wSGg0M0tXMS0wMUNDRXVqSFgzSG4ya0lLamwzdGNUS0Q2MnBsTnJNMXRYRktSbmJrNGlDSGE5S2Jna1JoT012QkJod3EzOTNaSi1fdUdqSi1kRmxIdEJPMUM3Snl4Ym96bDl4NF8ycVlsZWRURlBIbTBmTS1HYjFCYk1fajJ3aWZMVG9QRWtkdDA5Qkp3Z192LW9WYVNFTERPVHFUcXpVeVpib3JGdHExNE5hLUtiejVycDY5TmtzYkFpVFZ4bQ?oc=5",
+          "reuse": "공공누리 유형 확인",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
