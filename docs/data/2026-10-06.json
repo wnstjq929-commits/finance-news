@@ -1,0 +1,265 @@
+{
+  "date": "2026-10-06",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "증시·환율",
+      "score": 72,
+      "title": "9월 외환보유액 4천405억6천만달러…넉 달 만에 감소",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261003017600002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBJMmdFcW5pRU9tTFp0S3BBall2TmhaQ3Fab3VOMVlfZmZZLWtXcVNmSHNRWTB6MTNJQ0lkTG5xYUFrSURhOUF3Y09NZ1lFMjVtT0NxYzdYVHFjUDRlR1JfSnBtRmFtR1ozUFZibDcwb2dOOFo30gF0QVVfeXFMUEkyZ0VxbmlFT21MWnRLcEFqWXZOaFpDcVpvdU4xWV9mZlkta1dxU2ZIc1FZMHoxM0lDSWRMbnFhQWtJRGE5QXdjT01nWUUyNW1PQ3FjN1hUcWNQNGVHUl9KcG1GYW1HWjNQVmJsNzBvZ044Wjc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20098134",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008784258&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9WU1R4cGNSa01pbm1KSV9ZWXNuT1Rhelh2XzZLT2VRX204Qjk1dDF2RHFjQ2tSQTFLQldOMUc5QjIxLUhYOWN0cTd6RmlYRG1KTlpLQ2pVeGtlalZXdlpqZ1ROOFFUYmxZT0k4V0JXSlhteDFNSTZjc9IBeEFVX3lxTE9WU1R4cGNSa01pbm1KSV9ZWXNuT1Rhelh2XzZLT2VRX204Qjk1dDF2RHFjQ2tSQTFLQldOMUc5QjIxLUhYOWN0cTd6RmlYRG1KTlpLQ2pVeGtlalZXdlpqZ1ROOFFUYmxZT0k4V0JXSlhteDFNSTZjcw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1uVms5UElPRUJzdFJaLWZ4aWU1Z05GQ0k4SWhVM29YY0JCWXVVaWRDRUNxa2o1TjI4N0JYRnpWbWsxSW1GUWU3YzF1U2JqZjdqLTVrVlFR?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "증시·환율",
+      "score": 68,
+      "title": "美 증시,국채금리 올라도 나스닥 사상 최고…엔비디아도 최고치 돌파",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/202610064008i",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026100641476",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE50Ym81YUpIZ1BfZ3hIWmFLb2N0aGFFZ3dvWWQ1TW1RSno5d0kxV3ZrTzRXd002UGlITjVfZnJFS1NyWHJYR3FxMUlYTHR1X3NFUkdqTnAyTm9wWG81X0ZCZHdSZzhaYUZwZ1EzR2RONWk0TTNfcmfSAXtBVV95cUxPc1hiNkFHTk1KUDF2VC1oaU05VUZQRVllNXB6Zl9yTXZjR2ItMFEzRXltZlFoeElxQXJzQnpkX1ViVTNHTUJET0JRYXRMSGx3aFdJTHFqeWVSYmJKajJPMHVXbDhoanVkcncwNXkxRjZSUk1UQVNOa25HcHc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XSklGT3lIZGx1SmJUZXJ0NlZ1Yi1yUWRjNmpoVGpfcXl4T0ZvQk9TYVhXcnQ1elJ6YVlGaHFyYWdmUWgwbmgwTEt1UldDWTBIajFvMDB5aThRTmNybzAwRFVNMDZ1eTZSU3FWVHRCaXBIMk1SRFNPVUZmVQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5tSzN6NVI4Zkk5dFJZOERQVUwzSDQwazJySTNnbXd5Rzg0cHpfcmhrVXJjdk95NVZIQ0pKODhmdUdOVTA0aHBraHlOejVZMlNiQy13aTZXN2pVTklFb2JBZDJQWEFOQ1pLMlhTT1dYUm5kRVh6czV6RTRCRQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZMGpNc25tWFhlb2NIYmtlQ2JMYXhEY0JjSGN6YmU0b1JnSF9kVFB0UDdrR0p2VWluQXZwVWJGOTdIcktEOTNkallYNm84aWhIWDZ2UzEyQVgybEprQkE4bndxNlpucjA5bnYwQWEzTUdHWjFJLUwycjBDWQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008783857&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5jMl8xWW1ibW5QZmJQR0dtbTdKUVlQT240Z19fWGMtM1hwVDAtdDN4a3dZWF8tbDhWaVhGVmpHejFZUU51enFRSTBQRTg2NkJGTGpSMEh6djFremJ5LVJER0tLMU12WGfSAWxBVV95cUxONko4ZDBJejBOdnFqUDBBNzlEbDJpVEhvb1I2OVpPWXc4NVNyNER2Y21VREo4QkRUaENRZE54YWFQc24tbjdfTFdKRzVmeE9CeWFPX2g2MU8ya09FVVdUUGFNYkhHZl9RUExnS18?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBnNXlzWnJicllWMGMtMnhtNVBWT25INGd0QTA4d0huR29qcHpQOHNDOGdDbEJQSUl3dEEtOTBVSUdzSFJOYXZ2M3JyVTZ6ekZYVWdRaVNxSnlXRlB1QnEwdmtrSzFKOXPSAWxBVV95cUxOSW1QUHpfa0liUEJVbUdyVUQyc3hIMVBMcWFFeDkxMWpsNDBVRXc4bzBlRXc4VU8yNWdkdG8tRkpmeld2R1BrRjdOWU16OVNFM0hVRUlFWGFmLXpqekdlWjJqTlVxdEV0ZFVOZXc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAyNGtCVDNVbjBVOTJPczNKSXVOOE9jcm44blB4UTlKUWphaFRKQUE4ODZFbXc5b3A5d2tTc05jQVlpaV9BWk9UalBFWUNWM1M2SWlGZ3VoSVM5OG45MjBsatIBeEFVX3lxTFBCeUJGR1oybGhSdDgyZkVDUW9kUWJ1NXJRNlhWMGx5MG9ldHJOR0U0ZURPcUxvRkxSa2pkV0NaZThLM2dWVS1TVl8xc0FqdUplb1N2M0VVbmRjaTExczVPT2ZoZV9TNnNFY3NIOTU4Zmx6aWxLU0llNw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1EZmFQU29mbWZQeUpvOWVOOE5pQkFLR3NEVm9vT1Y3RU0xQUVnZGtLWWQ3QlJuaHFyaEh2RVkwTEtHQXNxNmlsQTJRR01Fb3g3OUtIazQteXJXUQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBpX2pOWDA1UFJSMWNoQnNGWFdlREhpQW5oOFptbTBYc0JHVlFWczRsR2NhdzNfaHVwZHgyZzU3bUoxMGNyMGI3cXpaYldLY09BMGw0SlFn?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "은행",
+      "score": 59,
+      "title": "2026년 9월말 외환보유액 | 기타 보도자료(상세) | 보도자료 | 뉴스 및 의사록 | 뉴스/자료 | 한국은행 홈페이지",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국은행",
+          "tier": "S",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTkthbGtyc3JHQWZ2bGhISWZyM2tScUk2THFmTHMwVFF6ZHdTaHZPMTVkNnFZLVJMc1hnZlBVT1FKU0ExT2xPbnMtbXlwWEE4dmhubDdIOHhiWDMtOWNWTDB4Q01Nd0xCczJxVXo4Zzdpd0V1UDB5MWxUZFVMaDgweE5tWmhqdnhHT0FhRWlaeXMtaG9seEgwb251d3pGX0JNWl9SVHRkSTIxMFNoSlBsSlU0VHh3QVU2SzAxOWNR?oc=5",
+          "reuse": "공공누리 유형 확인",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "은행",
+      "score": 58,
+      "title": "[속보] 경찰청, 은행권 전방위 AI해킹사건 정식수사 착수",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5teC1MLUFLQjVLX1A0MklIOGVYNHpzZlhWYUFaX3ZBTDNSd2ZlcS01WGNBVFhXU0pwMnZuR042WFNOXzBtcEJjSjE4VVU5eHozaWFVMFF2cUJwQ1B2U0taWtIBYEFVX3lxTE5teC1MLUFLQjVLX1A0MklIOGVYNHpzZlhWYUFaX3ZBTDNSd2ZlcS01WGNBVFhXU0pwMnZuR042WFNOXzBtcEJjSjE4VVU5eHozaWFVMFF2cUJwQ1B2U0taWg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE0xMThFQW84el93Rld2Q3BUQVF2QU8xRGFDUW8zZ29uUGFwVDBERGFVcDBqRnh4VGdUWk9NT2NuNmFVcGZjbmc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uZUhqc3RiMkYtRVdwU3JkWnYxUHkyR0lyRERfaU1JTEhJRXlJbTNGOTYwWUUwZlBoZHlCVUFNMVN4a3cteFd0NlM2c2NybFVVQWNfcHBuTTBFQQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5oUlUxd2I5NmduaVZzdFBqUkN4WlByUGZCS2djNkdBdnNFVTJlUE56N0YxNTFUdHN4VEExQjdjS1dQb0FnVndCaG5pV3JNUm1RR1N2UjRB?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "category": "증시·환율",
+      "score": 56,
+      "title": "중동 원유수출 전쟁전수준 회복에도 유가 안떨어지는 이유는?",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/202610053981i",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE96V2tQeFA2T3M0RXVkcEk0VXpWZEc2QVUtMTNySkVSd1hTV2d2dXR6YkZrTzVlVzYxSjBYVGZ0dlhOSVIzWnlQM2hGOVY0cmpOY0JudGFKa2htTUtKRTdKcVJMMlM2UE1lWWp3MlUwLU0?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE8wMnVpeFRsZk13SDVlbkVvV1RjRWNOV01rNU5zUlZPeVRsVDQxMlhPN0tuSjB5NFd6UEhYbS1kSmdreTluUTEyb3ZIeXFmaEhGdzZ5UWtNY0pHOUUyTlZrdFRGa3Jxd03SAWxBVV95cUxQQXNqV2dwRkgzVS1tWWNtN1p6MFhPSVRaYXRvZzd1d0xaR2wyem54emNzcG1hbm5YZlRjeGRQZUhOaUZzM3FYRDQ2TXJINWhnakFtT1pfOHIzWVFfQlNONEZrd1ZKblNkSy16TWY?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zeUpLMi1QSm5kTGJ3ZzM1OWdDT0xIblc5Y1lCOHpKeGJCRUxweGJrMVdKdkYwV3pTT1p4Q25fLV9qdDlwWm0xVldIMms0Q2hLLXBLY0pJZy0zZw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
