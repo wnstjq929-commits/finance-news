@@ -1,0 +1,251 @@
+{
+  "date": "2026-10-19",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "증시·환율",
+      "score": 66,
+      "title": "“삼전닉스 믿었는데”…국민연금, 3분기 보유주식 182조원 증발",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://www.mk.co.kr/news/economy/12178633",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803338&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008803110&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802814&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802748&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802741&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5XWGNMTDZNdnpuZDM3NS1VbXFWY3pocnc3Y1hwMGJ4U0djV0UxdWlSdUtwYTgzM2VJUXg2M0NxbmhrWVVTaXI3ZUI0SVdaUmhxc21jcktJUFlGbThIeVA4?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBjZzZOOWdxUDgxekJRYzcwT2x3NzdPVXBWb20zMklkblJKQlpxdUZGb2JXTVg4VUlHUXA3Z1B3ajNIcFg0UFNhem53dzBMcENDazN1MDJBZ1lVNjZodDFkU9IBeEFVX3lxTE9qTkVFXzkyX2JhTy1BUWt0Ukx5M19JR1RWYWZkRUQxdHpaM1QzNkNURzZwYlg2SWtuVGMtZ2ZmcUZWc3pBRkhIY3hRTzlNQ2xVN19ZeUhyNUNfZGlXMXd2cTFoVWNEaEhfQV9VN0pMQjhDT2Q0ZE1idA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5SYTBic3hPd1p2dVVDazNCa1JxSnEwQlVzUTZidVEzdG9Ia0VsYVB3bklzdVhBYjVBbEdUSEd5aVphZXZ1dWlBU2lScGNnVVFpRS1LUjlmcGEzUQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOS1FkeU9lN0FwMkRzZUtCcGhSUGh0bVpSZUduUFFzeVJETUJ1ZjdYT0p5REtXTmZhLThCTUNUcnV4UTBNSnVnT0pJWlZRU3l2cU44MzJBREl1M0dfYS1zVHpKbWxNVHhWbkF5R1FmT2VEeGQ2YzJTSjFUYWdUZGZZdEpvSU5ER1hY0gGcAUFVX3lxTE1rN01sWm5NUVFXQ3BaRjFoSlpKcm5kM3NZTGp1eGlzWWZlRFZyc1k3dG1pMkx5Z1ZiZjM0dDZ4bERqTjQxMFNSRTdiUXJMV3lPWVNaMk05SDlOMWVjZHMtV0djZmo4OWdJQUREdnlrTkNzSFQ5MnBNalhTNE9laHJteHBFdlNVUzlWZWN6SHNmTXNGZnB3S3VhNTVEUw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE40bTZxWllwT29iQ01BRGtqaUNyeTJsZy1HeXRWLUdMclNfS0lYZi1wb3hLNkdTY09mWWljejAxU3NaMFhkbHNzak04cG92bjZJekEtSmRB?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "금리·정책",
+      "score": 62,
+      "title": "신한은행, 중저신용자 대출금리 0.3%P 인하",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/202610188571i",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261016159400002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20102873",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802688&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE04cS1VUEc2WVFJTzFRTFRnQ251c3RFb0pwLWJud1d3d041cDFFSzZONzFaOUN1Q29OY0ZXeUdOS3YtVlFkeW11OFM2SmN4Zy1sWHZKSDRVcmNPZw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE13T0tDb08zYUt5MmlZQnJsNTgzQlo5VE1rSXdGMmd0bnhvUnI1bVJwN0d4Y3UyN0luNzRxT0NxNENwMi11RXhOUlZnQ2c2S3JtSEZiMmpoaER1MUpZ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "금리·정책",
+      "score": 61,
+      "title": "\"한은, 기준금리 10월 동결, 11월엔 인상 유력\"",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026101888781",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20103064",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20102952",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "은행",
+      "score": 59,
+      "title": "최지영 IMF 이사 \"한국만 재정 여력 늘어나…AI붐 당장 안 꺾여\"",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261016170600002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5pZ0ZNWmJwUUxQNFRaNV9yVDZFZlBOWmE2Z0ZBTFRFZHBNYlAxMDNNUmlNa19CYm1oM3A3cFZOdncyUl85dmhlOFprZUhKVXJyUC1sVnZsZjRlM2FpeHFtdNIBYEFVX3lxTE5pZ0ZNWmJwUUxQNFRaNV9yVDZFZlBOWmE2Z0ZBTFRFZHBNYlAxMDNNUmlNa19CYm1oM3A3cFZOdncyUl85dmhlOFprZUhKVXJyUC1sVnZsZjRlM2FpeHFtdA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1MNkM0N0p1QnlzMGRxSTJvenRYR015UlRnUUkyTHlrTTJhRFUyYkFUc0FienNTSVNONGQza3FVcUpPdkhuRDBhYjAzRlloNG5aUnVtcHZfUXEwdmRxb1dPY2czeDZiZ0NNZmZoX2RNX0g?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://www.mk.co.kr/news/economy/12178790",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://www.mk.co.kr/news/economy/12178740",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVFE3LVlGd196OWhfWFRYLVJZMjQ5S19yOWl5OGhNV2wwTWhmMTdRX1pIbXpSdTU1RWNnUkhXZkk2cHVMLUY0eUtXZ3RxUWlUTGExbDA3Y0FCd1FCVm9pbjdiNWVNX1RWQXFsVUNhV0ZnZ1hLWjJNRkxOVWFaRTg0eg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008802875&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        }
+      ]
+    }
+  ]
+}
