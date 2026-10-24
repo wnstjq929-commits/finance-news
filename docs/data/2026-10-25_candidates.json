@@ -1,0 +1,3582 @@
+{
+  "stats": {
+    "articles": 1008,
+    "issues": 87,
+    "feeds": 27,
+    "feeds_ok": 25
+  },
+  "health": [
+    {
+      "source": "금융위원회",
+      "label": "보도자료",
+      "url": "http://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111",
+      "kind": "rss",
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0111"
+    },
+    {
+      "source": "금융위원회",
+      "label": "보도설명",
+      "url": "http://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0112",
+      "kind": "rss",
+      "ok": false,
+      "error": "503 Server Error: Service Unavailable for url: https://www.fsc.go.kr/about/fsc_bbs_rss/?fid=0112"
+    },
+    {
+      "source": "재정경제부",
+      "label": "보도·참고자료",
+      "url": "https://mofe.go.kr/com/detailRssTagService.do?bbsId=MOSFBBS_000000000028",
+      "kind": "rss",
+      "ok": true,
+      "entries": 40,
+      "kept": 0
+    },
+    {
+      "source": "재정경제부",
+      "label": "설명·반박자료",
+      "url": "https://mofe.go.kr/com/detailRssTagService.do?bbsId=MOSFBBS_000000000029",
+      "kind": "rss",
+      "ok": true,
+      "entries": 40,
+      "kept": 0
+    },
+    {
+      "source": "재정경제부",
+      "label": "최근경제동향",
+      "url": "https://mofe.go.kr/com/detailRssTagService.do?bbsId=MOSFBBS_000000000044",
+      "kind": "rss",
+      "ok": true,
+      "entries": 40,
+      "kept": 0
+    },
+    {
+      "source": "한국은행",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:bok.or.kr+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 0,
+      "kept": 0
+    },
+    {
+      "source": "한국경제",
+      "label": "경제",
+      "url": "https://www.hankyung.com/feed/economy",
+      "kind": "rss",
+      "ok": true,
+      "entries": 50,
+      "kept": 15
+    },
+    {
+      "source": "한국경제",
+      "label": "증권",
+      "url": "https://www.hankyung.com/feed/finance",
+      "kind": "rss",
+      "ok": true,
+      "entries": 50,
+      "kept": 12
+    },
+    {
+      "source": "한국경제",
+      "label": "부동산",
+      "url": "https://www.hankyung.com/feed/realestate",
+      "kind": "rss",
+      "ok": true,
+      "entries": 50,
+      "kept": 2
+    },
+    {
+      "source": "연합뉴스",
+      "label": "경제",
+      "url": "https://www.yna.co.kr/rss/economy.xml",
+      "kind": "rss",
+      "ok": true,
+      "entries": 120,
+      "kept": 34
+    },
+    {
+      "source": "연합뉴스",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:yna.co.kr+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 100,
+      "kept": 100
+    },
+    {
+      "source": "연합인포맥스",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:news.einfomax.co.kr+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 20,
+      "kept": 20
+    },
+    {
+      "source": "서울경제",
+      "label": "금융",
+      "url": "https://www.sedaily.com/rss/finance",
+      "kind": "rss",
+      "ok": true,
+      "entries": 50,
+      "kept": 2
+    },
+    {
+      "source": "서울경제",
+      "label": "경제",
+      "url": "https://www.sedaily.com/rss/economy",
+      "kind": "rss",
+      "ok": true,
+      "entries": 50,
+      "kept": 27
+    },
+    {
+      "source": "서울경제",
+      "label": "부동산",
+      "url": "https://www.sedaily.com/rss/realestate",
+      "kind": "rss",
+      "ok": true,
+      "entries": 50,
+      "kept": 0
+    },
+    {
+      "source": "매일경제",
+      "label": "경제",
+      "url": "https://www.mk.co.kr/rss/30100041/",
+      "kind": "rss",
+      "ok": true,
+      "entries": 50,
+      "kept": 5
+    },
+    {
+      "source": "매일경제",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:mk.co.kr+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 100,
+      "kept": 100
+    },
+    {
+      "source": "머니투데이",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:mt.co.kr+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 100,
+      "kept": 100
+    },
+    {
+      "source": "이데일리",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:edaily.co.kr+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 100,
+      "kept": 100
+    },
+    {
+      "source": "SBS",
+      "label": "경제",
+      "url": "https://news.sbs.co.kr/news/SectionRssFeed.do?sectionId=02&plink=RSSREADER",
+      "kind": "rss",
+      "ok": true,
+      "entries": 29,
+      "kept": 5
+    },
+    {
+      "source": "뉴스1",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:news1.kr+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 100,
+      "kept": 100
+    },
+    {
+      "source": "뉴시스",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:newsis.com+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 100,
+      "kept": 100
+    },
+    {
+      "source": "파이낸셜뉴스",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:fnnews.com+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 99,
+      "kept": 99
+    },
+    {
+      "source": "조선비즈",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:biz.chosun.com+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 100,
+      "kept": 100
+    },
+    {
+      "source": "헤럴드경제",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:biz.heraldcorp.com+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 77,
+      "kept": 76
+    },
+    {
+      "source": "대한금융신문",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:kbanker.co.kr+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 2,
+      "kept": 1
+    },
+    {
+      "source": "한국금융신문",
+      "label": "구글뉴스",
+      "url": "https://news.google.com/rss/search?q=site:fntimes.com+when:1d&hl=ko&gl=KR&ceid=KR:ko",
+      "kind": "gnews",
+      "ok": true,
+      "entries": 11,
+      "kept": 10
+    }
+  ],
+  "candidates": [
+    {
+      "title": "가계대출 다시 들썩, 5대은행 이달 2.6조↑…은행 예금 11조↑",
+      "category": "bank",
+      "score": 56,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 15,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 15,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치",
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "가계대출 다시 들썩, 5대은행 이달 2.6조↑…은행 예금 11조↑",
+          "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 서울 외곽과 경기 남부 등을 중심으로 수도권 집값 상승세가 계속되면서 시중은행에서 가계대출이 다...",
+          "link": "https://www.yna.co.kr/view/AKR20261024042900002",
+          "published": "2026-10-25T05:49:01+09:00",
+          "feed": "경제"
+        }
+      ],
+      "picked": true
+    },
+    {
+      "title": "이태원참사 4주기 앞두고…4대종교 추모 기도회·시민 추모행진",
+      "category": "market",
+      "score": 49,
+      "detail": {
+        "보도량": 25,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 7,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 6,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "이태원참사 4주기 앞두고…4대종교 추모 기도회·시민 추모행진",
+          "summary": "이태원참사 4주기 앞두고…4대종교 추모 기도회·시민 추모행진 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aSU1UUEE5dVFaZjRjZHc1ZWFXVjVUdy1NTTduMmotZVVDdWhMWVBHNV9lT29NT1U1dHdtOWxOZFMtWTFaelNOT2RnSXlCemUzbDc2LXNRS3F2d2RKTjNSd184WDcyQVpuTFp5Y0dFejIyVTE4RkhOVA?oc=5",
+          "published": "2026-10-24T15:37:24+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "한성숙 총리 “이태원 참사, 정부 대표해 깊이 사과…진상 명백히 밝혀야”",
+          "summary": "한성숙 총리 “이태원 참사, 정부 대표해 깊이 사과…진상 명백히 밝혀야” 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5CcDJmRlgxUE5CTE5TRmlZRV8zV1hfWXBHaXU4eGNpaVJ0M2MyWVNSdExybEJHV2hoSDNfcTJBSGFEVjZWWkE?oc=5",
+          "published": "2026-10-24T19:37:40+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "이태원 참사 4주기 맞은 유가족…추모 기도회 열어",
+          "summary": "이태원 참사 4주기 맞은 유가족…추모 기도회 열어 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5ubVFVUjdVdjZsZ2U3R3FuLTA1RWVETGpFRVRkMHEtTGJUMk9TY0JfY1g5YWR2c0t2eXF3LVRDaHZhVU5tRXpMR2I3a0Y3XzVkYVhvSTN2bW5yblNkenAxS2k4c0k?oc=5",
+          "published": "2026-10-24T17:33:37+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "오세훈 시장과 인사 나누는 한성숙 총리",
+          "summary": "오세훈 시장과 인사 나누는 한성숙 총리 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBqdk5NUjZqUHlQcXVyTzl3ZEw5aWZHRFVoZllOQjZKU1BXWWc2bFFWUm1KZVlac3FsZl9nd0tpMDBkVVItUEVVRGlwcw?oc=5",
+          "published": "2026-10-24T18:41:42+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "외국인 희생자 가족 위로하는 한성숙 총리",
+          "summary": "외국인 희생자 가족 위로하는 한성숙 총리 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE04NWRkQ3JXUFExM1dqX3ZjMTJFWE1HeUt4RE11RjhrUm50UUVmZk9sU0Z0YTJJbldZVjBwNHVNTURjbmNaRFBPOWc3UQ?oc=5",
+          "published": "2026-10-24T18:45:16+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "추모사하는 한성숙 총리",
+          "summary": "추모사하는 한성숙 총리 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14RlkzNER3RzRTMjBHNXNWakp4a0lTMXNSSEtOZDNmMHhzZlotdkltX1dDd3Vab3BYaDVfY1FKSTZaZmo3NVQ0T0JJdw?oc=5",
+          "published": "2026-10-24T18:41:05+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "이태원참사 추모대회 참석한 오세훈 서울시장",
+          "summary": "이태원참사 추모대회 참석한 오세훈 서울시장 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBHY3BZYkV4RFAtMkxyUUs3dVBKYldfdG1paVRIVDFJYzRBUG93SXdYNFA4aFpqam1pRUt4ZjBBSUpra0FIRVNwR2FXYw?oc=5",
+          "published": "2026-10-24T19:03:48+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "10·29 이태원 참사 4주기 추모대회",
+          "summary": "10·29 이태원 참사 4주기 추모대회 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBONFNBdGxxR291S2lvQUZ2cm8teGU5T2pnV0ZGUVN3TWJ5REYyYk1GSjNCZ0duT0JxSkZjbDNTZVNxV3lwZ040U1Q2WQ?oc=5",
+          "published": "2026-10-24T18:53:35+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "한성숙 총리와 인사 나누는 김민석 대표",
+          "summary": "한성숙 총리와 인사 나누는 김민석 대표 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE8zOUdERHp3T09ZWDNzbXFxRVNqVHI5NVhlOXNuZzY3RWI0cldubnRIOU5mWGpqZHM3YWJaWHFpWDdoSy10RGF5VG5GWQ?oc=5",
+          "published": "2026-10-24T19:04:04+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "이태원참사 유가족 위로하는 한성숙 총리",
+          "summary": "이태원참사 유가족 위로하는 한성숙 총리 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBYUi1sWlFpZHE5NkdocjJKU040bExlMjJobXNQM3VpXzZnbURkaGg0STB0WWt6RHlHSURTSlFtY3dTbjgyTElTUC1YQQ?oc=5",
+          "published": "2026-10-24T18:40:44+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "한성숙 총리, 이태원 참사 4주기 추모대회 추모사",
+          "summary": "한성숙 총리, 이태원 참사 4주기 추모대회 추모사 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBCUTBkaFJpTWdlYVJ4UnlycFV1OFNxek9YZW9sbTR6N2lyR2pTMVhyQ2UyZ0NhOWZiWDJvNjFERnhKUkFZOFVkWHpoWQ?oc=5",
+          "published": "2026-10-24T18:41:26+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "허리숙여 사과하는 한성숙 총리",
+          "summary": "허리숙여 사과하는 한성숙 총리 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5VaFV3RHVCbnV1cXhmckhzSldsQ21RMmRrTEkzc0J3aVVMc0FjLWJyWEtSYW50NW0wTjFyNXJ3YldJYzNoaUlLUTNyYw?oc=5",
+          "published": "2026-10-24T18:41:35+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "이태원참사 추모대회 참석한 오세훈 시장",
+          "summary": "이태원참사 추모대회 참석한 오세훈 시장 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBWcTE2bzhBdmJpTkFOM3hUMGpLSWtfdUZZNzZpYXlQTkRNMVV0Yk9EcGhrZ2k3ZGx0RVpfX3VjYzBMT1JWOWJ4V2ZyWQ?oc=5",
+          "published": "2026-10-24T19:03:58+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "이태원참사 외국인 유가족 만난 한성숙 총리",
+          "summary": "이태원참사 외국인 유가족 만난 한성숙 총리 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE0zdUJUZVlOM2VRdnFnYTNPQURac2NObTFuVHRMVHRvTXBVSHozTDFmUWFINUNOQ1NFdHVsS1Y0aUEzYWM1dzYzU1RTUQ?oc=5",
+          "published": "2026-10-24T18:40:59+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "이태원 참사 사과하는 한성숙 총리",
+          "summary": "이태원 참사 사과하는 한성숙 총리 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBEVUhiaC1VYVk2eUJkNUx2VVlaWW4wbGRPVU1JVGlPRnkyZmh0U3hTZENDN3E1dG1JZkZUZ1BIckJ4YnZqWDg1eUdsdw?oc=5",
+          "published": "2026-10-24T18:41:54+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "오세훈 시장과 악수하는 한성숙 총리",
+          "summary": "오세훈 시장과 악수하는 한성숙 총리 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBlM2pDaXRmX2F5ZUdybXlObGRUWUk1bGhMcnNhbE1SVzQ2VHU4dGJ4YlRtQVRHUnlabjZETlp5VkZibnVYWkFYQldqVQ?oc=5",
+          "published": "2026-10-24T18:40:50+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "한성숙 총리, 이태원 참사 4주기 추모대회 참석",
+          "summary": "한성숙 총리, 이태원 참사 4주기 추모대회 참석 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE5OUmZseGZSb1I5RjZIR2JBNWx3Q09JellDN1p0Ym9JTzhBWVhUWWJISVE5NDVHUmVlVV9CVWxqM0dzdE5DbDcyRHUwQQ?oc=5",
+          "published": "2026-10-24T18:40:39+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "한성숙 총리, 10·29 이태원 참사 4주기 추모대회 추모사",
+          "summary": "한성숙 총리, 10·29 이태원 참사 4주기 추모대회 추모사 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9vbklQM2RuYmRnakxkMWhXTXAtMy1CLVFzTU5WLVhsSjNKNHZ5MklpZkJWNm11NHpyY0RuSGdabFNEQ1hjZEM0VVZ2bw?oc=5",
+          "published": "2026-10-24T18:41:47+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "newsis",
+          "source": "뉴시스",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "\"끝까지 함께하겠다\"…이태원 참사 4주기 시민추모대회 [뉴시스Pic]",
+          "summary": "\"끝까지 함께하겠다\"…이태원 참사 4주기 시민추모대회 [뉴시스Pic] 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjUXhiTTdoTy00WExTamVyNUFWNk41Z2RSeVZfVzNxMGhuMW9hNmJVSF84ajdOMHVHUi11X1JoQkZWekNwNkZaa3J2c2dFMkRiaXc4LXpJUGFZTFJIWjBRV2tBWW5lMnFzR2d0S3gydjlJRnVuNGNBcNIBeEFVX3lxTFBjUXhiTTdoTy00WExTamVyNUFWNk41Z2RSeVZfVzNxMGhuMW9hNmJVSF84ajdOMHVHUi11X1JoQkZWekNwNkZaa3J2c2dFMkRiaXc4LXpJUGFZTFJIWjBRV2tBWW5lMnFzR2d0S3gydjlJRnVuNGNBcA?oc=5",
+          "published": "2026-10-24T20:53:34+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "\"아이들 빈자리 여전해…끝까지 진실 향해 걷겠다\" 이태원 참사 4주기 시민추모대회",
+          "summary": "\"아이들 빈자리 여전해…끝까지 진실 향해 걷겠다\" 이태원 참사 4주기 시민추모대회 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icTN5QmJKRGpkTndHbUktOFJBMnJ0WFhKajlRcHVRZUx2THZGempmaE95WTZmLXpKUGgyUnJMVUlEYjdBZXM4M25xelNFZzF0d0lHV3RjWV9mZw?oc=5",
+          "published": "2026-10-24T22:01:34+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "chosunbiz",
+          "source": "조선비즈",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "한성숙 국무총리 “이태원 참사 재차 깊이 사과… 진상 명백히 밝히겠다” - 조선비즈",
+          "summary": "한성숙 국무총리 “이태원 참사 재차 깊이 사과… 진상 명백히 밝히겠다” - 조선비즈 Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQa1FYTzluVUZVQ2pWT2JsVVdJY012eU05cVJTanFaMExkai0yWm5lbVl0YUt4ZFBCZTlKVkY1b0VLRjBCVzNReGFad2htWEs1LU9zX3dOQnU4M0tubjBVUkFUZlpsWEI5X0VxSUVtLW9rcjk2WDFHSU9QYjZpUElETnF5dVNjdVIwd0HSAZ4BQVVfeXFMTXdvcFl6Wi1QNURubENNbWdPRlBrOXVKenRfa0VSSEhDRDVCcjd2a3d6YlJSWHNNQ08tYlBjaUcxV2xWbTRzQlFIT09GLVM3bFJPSkpZZThkV2Z5QnVac2pTVmlnUjRfMzY5Z0Nzam9XRWJrYUlRbDFJcVFKMWNESWhMNFU3RjdVTVBhRXlnQlh0SEF3WGNMZC1tcnI0c0E?oc=5",
+          "published": "2026-10-24T19:19:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "[뉴욕증시-주간전망] 운명의 한 주…FOMC·물가·AI 실적 '3중 시험대'",
+      "category": "rate",
+      "score": 46,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 15,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "einfomax",
+          "source": "연합인포맥스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "[뉴욕증시-주간전망] 운명의 한 주…FOMC·물가·AI 실적 '3중 시험대'",
+          "summary": "[뉴욕증시-주간전망] 운명의 한 주…FOMC·물가·AI 실적 '3중 시험대' 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9maHlzMkdxNTM2NkduMGtfX2JnUElsOVRjbDZEODlORk9QdGxxd3dkc2UteF9qWjVpeXVvMFhHd1RNems0czZldC1JOWk0N0FyMHhzZ3JsQXlrTjZOZXZ5MzFZLW13U0VTZFMwSTF0ZW8?oc=5",
+          "published": "2026-10-25T07:00:10+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"외인 놀이터 된 코스피, 못 버티겠다\"…개미 떠나자 50조 증발 [분석+]",
+      "category": "market",
+      "score": 45,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 12,
+        "신선도": 7,
+        "기사 품질": 16,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치",
+        "단독·분석"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "hankyung",
+          "source": "한국경제",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "\"외인 놀이터 된 코스피, 못 버티겠다\"…개미 떠나자 50조 증발 [분석+]",
+          "summary": "",
+          "link": "https://www.hankyung.com/article/2026102426856",
+          "published": "2026-10-24T22:03:22+09:00",
+          "feed": "증권"
+        }
+      ]
+    },
+    {
+      "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
+      "category": "estate",
+      "score": 45,
+      "detail": {
+        "보도량": 15,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 7,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 3,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "삼성물산, 반포푸르지오 리모델링 수주…1천250억원 규모(종합)",
+          "summary": "(서울=연합뉴스) 오예진 기자 = 삼성물산 건설부문(이하 삼성물산)이 서울 서초구 반포푸르지오 아파트 리모델링 사업 시공사로 선정됐다.",
+          "link": "https://www.yna.co.kr/view/AKR20261024031251003",
+          "published": "2026-10-24T17:20:43+09:00",
+          "feed": "경제"
+        },
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "포스코이앤씨, 5천264억원 규모 이수신동아4단지 리모델링 수주",
+          "summary": "(서울=연합뉴스) 오예진 기자 = 포스코이앤씨가 5천264억원 규모의 서울 동작구 이수신동아4단지 아파트 리모델링 사업을 수주했다.",
+          "link": "https://www.yna.co.kr/view/AKR20261024031200003",
+          "published": "2026-10-24T13:53:21+09:00",
+          "feed": "경제"
+        },
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "포스코이앤씨, 동작 '이수신동아4단지' 리모델링 수주",
+          "summary": "포스코이앤씨, 동작 '이수신동아4단지' 리모델링 수주 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE91SzFHUnVRQTREY21iOGVjZVo1dXBacDEzWUVLWGU1Q1N5TURiUWFla3hJdkN3ZzlBQzFmZzVDWDhXMU1oODdLbEtZT1gtOVFNbzJEcldpQ3dNdw?oc=5",
+          "published": "2026-10-24T14:05:09+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "삼성물산, 반포푸르지오 리모델링 수주...'넥스트 리모델링' 첫 적용",
+          "summary": "삼성물산, 반포푸르지오 리모델링 수주...'넥스트 리모델링' 첫 적용 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE92ZHk5NXFvSHJ3eU5Pem1JMjZGV2NvZUkybDJMQnM4WVUya0lfdDA1TzQzYVN2Q01UVXMzOFVFdUJSNkk0MS1IekdBVHFsZV9wcHNKa0JpVTU5dw?oc=5",
+          "published": "2026-10-24T20:16:32+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "chosunbiz",
+          "source": "조선비즈",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "삼성물산, 반포푸르지오 리모델링 시공사 선정… 1250억원 규모 - 조선비즈",
+          "summary": "삼성물산, 반포푸르지오 리모델링 시공사 선정… 1250억원 규모 - 조선비즈 Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVzVjNXk4eDIzQ3p4UWFrejU0SkhpSTQwUGZSRXZTNmpzZ3drZEM1bFU0Ul9YbFcwZGJqWk0teGNQM3kxMVFQVkJBSTFJUncwRllhWUUxMmtZSzhTMnB3NVJzWnJiR1VDNXEyRG9nU2lqQVlCM3JtdDdfaUpnYzhWcDFpVjhyalg1bkx1UVpxSWZTM3NRWnpCNtIBrAFBVV95cUxPN1VVQksxMElaZHJEX0dDVjdRQzM2SHFyaExITXNNbVNCdGNhaHM1MkJkU2ctellwVFhUTWhLV3JIV1plSUFqSkR5eDY5Z2xfcEdkbnNmWmhjNWhmbnNzRjNJYmNNVlE4RGYyTGVvc3Q4TlY5VGRNcEJRNmdwTmtxWGMxZF9XcFpvSzZsOG9DVXFoTklCczAyazRsZ3VYZjUyRWk1RlJTTGRRZ2ZE?oc=5",
+          "published": "2026-10-24T17:36:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "“일본여행 환전 더 기다려, 말아?”…日 금리 인상만 봐선 안 되는 이유",
+      "category": "rate",
+      "score": 45,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 15,
+        "출처 품질": 11,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "“일본여행 환전 더 기다려, 말아?”…日 금리 인상만 봐선 안 되는 이유",
+          "summary": "원·엔 환율 100엔당 840원대 日 금리 인상 기대는 엔화 강세 요인 국내 환전 비용은 원화 움직임도 변수원엔 환율이 100엔당 840원대에서 움직이는 가운데 일본은행의 추가 금..",
+          "link": "https://www.mk.co.kr/news/economy/12184761",
+          "published": "2026-10-24T11:09:44+09:00",
+          "feed": "경제"
+        },
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "“일본여행 환전 더 기다려, 말아?”…日 금리 인상만 봐선 안 되는 이유",
+          "summary": "“일본여행 환전 더 기다려, 말아?”…日 금리 인상만 봐선 안 되는 이유 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5vYWh4SlhxYjZjRkVSeHhhNi16blAtMXBtZ21raWtlSnpBRXlqd3l2SUhLUC1yaWFTN042a241c0NiZXd3MGc?oc=5",
+          "published": "2026-10-24T11:09:44+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "[다음주 경제] 3분기 성장률은…9월 산업동향도 주목",
+      "category": "bank",
+      "score": 44,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 8,
+        "키워드": 11,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "[다음주 경제] 3분기 성장률은…9월 산업동향도 주목",
+          "summary": "(서울=연합뉴스) 이세원 한지훈 배영경 기자 = 다음 주(26∼30일)에는 한국은행이 올해 3분기 실질 국내총생산(GDP) 성장률을 발표한다.",
+          "link": "https://www.yna.co.kr/view/AKR20261023183500002",
+          "published": "2026-10-24T09:21:26+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "북한 해킹조직 라자루스, PHP 취약점 악용해 공격 준비 정황",
+      "category": "bank",
+      "score": 44,
+      "detail": {
+        "보도량": 20,
+        "기관 연결": 0,
+        "키워드": 3,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 4,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "북한 해킹조직 라자루스, PHP 취약점 악용해 공격 준비 정황",
+          "summary": "북한 해킹조직 라자루스, PHP 취약점 악용해 공격 준비 정황 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9uWTZEOUhING9Cb25oWU51WDFzS2tUSUluQmEtVVBKRks3ckhNMWQ1aG45WnZKNmpZSl8xUWlnbmp0djdBU2dvMDRrWm1JOG9SZ2pvQ0I1aFpWZkXSAWBBVV95cUxPSXFGQ2JzMWJqYjZMZVNDcjlOcTdDS1l2SklTOTFldVozU19NV0FZcUsxdms1Tlp3UDJqb1ZBUjJNWFRWV1Y0SUtyOVdYUmdXRmU3NTg4SHRHazktcldjaUY?oc=5",
+          "published": "2026-10-24T09:47:02+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "한국 정부·은행 노리나…북한 해킹조직 라자루스, 사이버 공격 준비 정황",
+          "summary": "한국 정부·은행 노리나…북한 해킹조직 라자루스, 사이버 공격 준비 정황 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBKenV2ZXlLbG02R0NFNmloSktSZThMWHd2Z3pzUUNHb2NlNDdTbi1nUGl4Nmhfa18ydXB3QVk4MlpUdmNrc2c?oc=5",
+          "published": "2026-10-24T11:25:37+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "sbs",
+          "source": "SBS",
+          "tier": "B",
+          "source_score": 66,
+          "official": false,
+          "title": "북한 해킹조직 라자루스, PHP 취약점 악용해 공격 준비 정황",
+          "summary": "▲ 해킹, 서버전 세계 웹사이트에서 널리 쓰이는 프로그래밍 언어 'PHP'의 치명적 보안 취약점을 악용해 대규모 사이버…",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008812981&plink=RSSLINK&cooper=RSSREADER",
+          "published": "2026-10-24T10:36:00+09:00",
+          "feed": "경제"
+        },
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "北 해킹조직, 세계 금융·정부 사이버 공격 준비...한국도 표적",
+          "summary": "北 해킹조직, 세계 금융·정부 사이버 공격 준비...한국도 표적 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9lUE1wallWZ2p1MmFSMk9oZmJGNVdtVzFUTGE1Q1hTcmQzckJXaXZ3Qy11OURvQ0thU1o4bks1NzZsbTBVaUZwZ2xXTzhfSkFlcDhVOVZmMWU0QQ?oc=5",
+          "published": "2026-10-24T10:17:20+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "경찰 7만명, 장갑차 투입했지만...프랑스 전역 '고물가 시위' 지속 - 머니투데이",
+      "category": "rate",
+      "score": 44,
+      "detail": {
+        "보도량": 10,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 10,
+        "신선도": 7,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 2,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mt",
+          "source": "머니투데이",
+          "tier": "B",
+          "source_score": 67,
+          "official": false,
+          "title": "경찰 7만명, 장갑차 투입했지만...프랑스 전역 '고물가 시위' 지속 - 머니투데이",
+          "summary": "경찰 7만명, 장갑차 투입했지만...프랑스 전역 '고물가 시위' 지속 - 머니투데이 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9RNm9qYkVKWnA3aGVGWUJnTUhlaTlFbF9mVk52SnBucmNxME9KdlJ4c0ZjSUR1UDhqZTFkR3U4akpBMnpjUHUtS05qNTBFUk5YMHJxckl6Skx0ZE80c1dUYUwtenpURkky0gFuQVVfeXFMTXZ5cFB3UEM2bVFaTnplalMtNWJ5Q3FTYVY3al9NNF9jVlFhRDhBLTU1aE5zaDMyV3pBQkV4Q1FEdGljTTVCcTFaeXpiSFptcFE5RXlCVk90QTllbWRaZEp3U1U2ZmE5RkQ0VHNpWXc?oc=5",
+          "published": "2026-10-24T22:04:14+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "\"장갑차에 7만 경찰 총동원\" 프랑스 고물가 시위…135명 체포·상점 셧다운",
+          "summary": "\"장갑차에 7만 경찰 총동원\" 프랑스 고물가 시위…135명 체포·상점 셧다운 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1zSmppc1FaeHpIc3lnRlJJXzRXV1hSTnJYdGxVeVMzRlZsaFdGa1UyU2J2QlBQTXljRGpsMWQyZzA2YUNhN3k1QUhrYVpZNmdIZzNQeGp0dEstUQ?oc=5",
+          "published": "2026-10-24T23:59:18+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "코스피 빠질 때 혼자 37% '불기둥'…실적 두 배 터진 이 회사 [종목+]",
+      "category": "market",
+      "score": 43,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 12,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "hankyung",
+          "source": "한국경제",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "코스피 빠질 때 혼자 37% '불기둥'…실적 두 배 터진 이 회사 [종목+]",
+          "summary": "",
+          "link": "https://www.hankyung.com/article/2026102309936",
+          "published": "2026-10-24T15:52:49+09:00",
+          "feed": "증권"
+        }
+      ]
+    },
+    {
+      "title": "코스피 급락에…10대그룹 시총, 한달새 1천100조원 증발",
+      "category": "market",
+      "score": 43,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "코스피 급락에…10대그룹 시총, 한달새 1천100조원 증발",
+          "summary": "(서울=연합뉴스) 곽윤아 기자 = 코스피 급락에 국내 10대 그룹의 시가총액이 이달에만 1천100조원 넘게 증발했다.",
+          "link": "https://www.yna.co.kr/view/AKR20261024028000008",
+          "published": "2026-10-25T06:15:00+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "홍콩ELS식 '제재엇박' 막는다…금융위·금감원, 사전조율 공식화",
+      "category": "rate",
+      "score": 43,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 8,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 9,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "홍콩ELS식 '제재엇박' 막는다…금융위·금감원, 사전조율 공식화",
+          "summary": "(서울=연합뉴스) 배영경 기자 = 금융위원회와 금융감독원이 주요 제재 건에 관해선 금융위로 넘어오기 전 사전조율을 공식·정례화하는 방안이 추진된...",
+          "link": "https://www.yna.co.kr/view/AKR20261024045800002",
+          "published": "2026-10-25T05:57:00+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "[마켓인사이트] 솔리다임 상장중단에 반전한 코스피…금주 향방은",
+      "category": "market",
+      "score": 41,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 10,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "[마켓인사이트] 솔리다임 상장중단에 반전한 코스피…금주 향방은",
+          "summary": "(서울=연합뉴스) 황철환 기자 = 지난 한 주 국내 주식시장은 잦아들지 않는 인공지능(AI) 수익성 논란과 중동 무력충돌 재격화의 영향 속에 급...",
+          "link": "https://www.yna.co.kr/view/AKR20261024024500008",
+          "published": "2026-10-25T06:00:07+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "[다음주 한국은행 및 금융위·금감원 일정]",
+      "category": "rate",
+      "score": 40,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 11,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 9,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "einfomax",
+          "source": "연합인포맥스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "[다음주 한국은행 및 금융위·금감원 일정]",
+          "summary": "[다음주 한국은행 및 금융위·금감원 일정] 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9teFdzdDNkSTBnbEsyR2dSU3BfTG85SUdZR252UU1BVHgxZURoaXhxRGJYNTdEdVYzUlVHQ1FoNHVjTDU3a05oU0FoZmFjaUE0X1JkZXRzZUxmYjFPR1B0M0VZOXNrVHpsejRGTnMtVnZtZjVM0gF0QVVfeXFMT214V3N0M2RJMGdsSzJHZ1JTcF9MbzlJR1lHbnZRTUFUeDFlRGhpeHFEYlg1N0R1VjNSVUdDUWg0dWNMNTdrTmhTQWhmYWNpQTRfUmRldHNlTGZiMU9HUHQzRVk5c2tUemx6NEZOcy1Wdm1mNUw?oc=5",
+          "published": "2026-10-24T08:13:42+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "'너도나도 1천억' 은행 보안투자 경쟁…PHP 대응도 비상",
+      "category": "bank",
+      "score": 38,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 3,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 9,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "'너도나도 1천억' 은행 보안투자 경쟁…PHP 대응도 비상",
+          "summary": "(서울=연합뉴스) 한지훈 채새롬 이도흔 기자 = 금융권 해킹 사태 이후 주요 은행들이 내년 정보보호 예산을 늘리고 고객 보호 조치를 마련하는 등...",
+          "link": "https://www.yna.co.kr/view/AKR20261024041000002",
+          "published": "2026-10-25T05:55:00+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "'최고 3.3배' 예보료율 인상 내주 재논의…수정안 나올듯",
+      "category": "rate",
+      "score": 37,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "'최고 3.3배' 예보료율 인상 내주 재논의…수정안 나올듯",
+          "summary": "(서울=연합뉴스) 강수련 기자 = 금융당국과 예금보험공사가 다음 주 금융업권과 만나 예보료율 인상 폭 논의를 본격화한다.",
+          "link": "https://www.yna.co.kr/view/AKR20261024041900002",
+          "published": "2026-10-25T05:59:00+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "'1억원 예산 전액 삭감' 순직 소방관 추모행사 대폭 축소 진행",
+      "category": "rate",
+      "score": 37,
+      "detail": {
+        "보도량": 10,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 2,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "'1억원 예산 전액 삭감' 순직 소방관 추모행사 대폭 축소 진행",
+          "summary": "'1억원 예산 전액 삭감' 순직 소방관 추모행사 대폭 축소 진행 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nU2stdGhUM3RsdVRTdGVQY2puZ1RjZUFGV3NVWDB3dldUVjFSb25RNUI0QThhT1o4RmZpRFk1QXhTNHJmaDdlZjZXS1g2NXhtRkFSb2lvX3M2X3PSAWBBVV95cUxPSE5tWkE2YUxtY01FLXdpMXZqUXBxQmdTcW5MNk1Pa0N3MFZGWGtkQzA0VlZ0YUJfU0NlUlFBLThxLWhYZGJ5dHJqOHc1SEgyaThMdFFBY0s2VWx4MHl3aVE?oc=5",
+          "published": "2026-10-24T12:55:44+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "'1억원 예산 전액 삭감' 순직 소방관 추모행사 대폭 축소 진행",
+          "summary": "'1억원 예산 전액 삭감' 순직 소방관 추모행사 대폭 축소 진행 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBja3N3SVpsY1RyeUhEYWkxV2w1UXhPZzUzTjkyY1gydmlPOUZjNU5ERHdieU1xWTdjMUFLamtkYUxsQ2hWNDh5UzBOYlloQkJWRHptZmRKYTkwQk5hYVZYbnZIWWNvY1djbUE0QUV1dEF6N2xHcFBsOA?oc=5",
+          "published": "2026-10-24T12:58:51+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "1억원 전액 삭감…추미애, ‘대폭 축소’ 순직 소방관 추모행사서 처우·예우 개선 약속",
+          "summary": "1억원 전액 삭감…추미애, ‘대폭 축소’ 순직 소방관 추모행사서 처우·예우 개선 약속 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFBfaVZqWGhGanhOZ3dFZ2Z0OTMwaHY0OS1Hay1PVTcyNUd2TGY3Q3ZocWEyWGhyMHE3cXlySTVzNzh2YkVzR1E?oc=5",
+          "published": "2026-10-24T13:54:37+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "55조원 매수 끝낸 삼전·닉스…코스피 다음 '수급 방파제' 누구",
+      "category": "market",
+      "score": 37,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "einfomax",
+          "source": "연합인포맥스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "55조원 매수 끝낸 삼전·닉스…코스피 다음 '수급 방파제' 누구",
+          "summary": "55조원 매수 끝낸 삼전·닉스…코스피 다음 '수급 방파제' 누구 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MdUFDVmJ3LXlZMXcxbUtualRzWnBpWDkteTZoenoxejQtRnVqdUFxdG9mNWx4cldRLS04S093YzR4SlIwUWY3cnpxSk9XSHJCZXpycFNzUGZkMWoxcnR2VllLSEM2QXlZSGFXNVNyRVQ?oc=5",
+          "published": "2026-10-24T08:10:16+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "1인 가구 늘어서?…서울 아파트 '전세→월세' 중형평형서 껑충",
+      "category": "estate",
+      "score": 36,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 5,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "1인 가구 늘어서?…서울 아파트 '전세→월세' 중형평형서 껑충",
+          "summary": "(세종=연합뉴스) 오진송 기자 = 서울 아파트 임대차 시장에서 초소형을 중심으로 진행되던 전세의 월세화가 최근에는 중형 면적대에서 두드러지는 것...",
+          "link": "https://www.yna.co.kr/view/AKR20261024051800003",
+          "published": "2026-10-25T06:07:01+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "재정난에도 ‘이자 0%’…프랑스, 무이자 주담대에 세금 1.3조 투입",
+      "category": "estate",
+      "score": 36,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 11,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "sedaily",
+          "source": "서울경제",
+          "tier": "A",
+          "source_score": 74,
+          "official": false,
+          "title": "재정난에도 ‘이자 0%’…프랑스, 무이자 주담대에 세금 1.3조 투입",
+          "summary": "",
+          "link": "https://www.sedaily.com/article/20105599",
+          "published": "2026-10-24T08:00:50+09:00",
+          "feed": "금융"
+        }
+      ]
+    },
+    {
+      "title": "‘金계란’에 산란계 역대 최다…고물가가 바꾼 ‘단백질 식탁’ [Pick코노미]",
+      "category": "rate",
+      "score": 36,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 11,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "sedaily",
+          "source": "서울경제",
+          "tier": "A",
+          "source_score": 74,
+          "official": false,
+          "title": "‘金계란’에 산란계 역대 최다…고물가가 바꾼 ‘단백질 식탁’ [Pick코노미]",
+          "summary": "",
+          "link": "https://www.sedaily.com/article/20105663",
+          "published": "2026-10-25T05:30:05+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-10월 4주]",
+      "category": "bank",
+      "score": 36,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 3,
+        "출처 품질": 9,
+        "신선도": 10,
+        "기사 품질": 10,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치",
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fntimes",
+          "source": "한국금융신문",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "24개월 최고 연 4.10%…OK저축은행 'OK e-안심정기예금'[이주의 저축은행 예금금리-10월 4주]",
+          "summary": "24개월 최고 연 4.10%…OK저축은행 'OK e-안심정기예금'[이주의 저축은행 예금금리-10월 4주] 한국금융신문",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9Bald1UG12Q2t4ZUFCM0hIY3diaUEtQWdjdHg1MTFTVjZxT01YYk9ORHFSQ3J3ZmN0SmhFZTJJOXRUV0pmWXNpcGhlUEg2UnEyenRFcTdPZ1g0TFUwUi0xbVE4RWhOcTRCYVdXdEhZRzhDWkJQcm5pRWFXTno?oc=5",
+          "published": "2026-10-25T06:00:00+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fntimes",
+          "source": "한국금융신문",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "12개월 최고 연 4.10%…JT친애저축은행 '비대면 정기예금'[이주의 저축은행 예금금리-10월 4주]",
+          "summary": "12개월 최고 연 4.10%…JT친애저축은행 '비대면 정기예금'[이주의 저축은행 예금금리-10월 4주] 한국금융신문",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iaExkVWZ6MDltSDhwN1MzeWFVMVd4Z1pJU3dReUVnOHRQMEJwV2gwV1ZCM3lrRC16bGZFRGFFLUdIUXN1dmxpQ1Z4a3oxTjNpVzROZ3cwbzRUdlpoVExVdEZGeDlPNGM3WFNqbkJGQWxEUnZnUFEyUkRiRXA?oc=5",
+          "published": "2026-10-25T06:00:00+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fntimes",
+          "source": "한국금융신문",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "12개월 최고 연 6.00%…BNK저축은행 'BNK동행적금'[이주의 저축은행 적금금리-10월 4주]",
+          "summary": "12개월 최고 연 6.00%…BNK저축은행 'BNK동행적금'[이주의 저축은행 적금금리-10월 4주] 한국금융신문",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBreVkzaE4wd1psZGpyc3g5Z1FBUDFPNTRVY0l3YnJLUEpEQmJ1TU5SMjdzdE5GbVdNMmw4aDNWUi1BWG4zR2hOQjlUTTk0NG11bEsxSHY4YnhwVnRqcjZYajNwelBIeFVraWdWcllvaDZ6eVYzTGFLZjI5MGw?oc=5",
+          "published": "2026-10-25T06:00:00+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fntimes",
+          "source": "한국금융신문",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "24개월 최고 연 4.00%…제주은행 'J정기예금(만기지급식)' [이주의 은행 예금금리-10월 4주]",
+          "summary": "24개월 최고 연 4.00%…제주은행 'J정기예금(만기지급식)' [이주의 은행 예금금리-10월 4주] 한국금융신문",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6SlVWcWVKOURUcVF5S3hJOHp2RzgyN3p4VG9oZGtieXRxcGFwTVRHc1BNbDZWdnQwYzdrVDM1Q21vVThYOWZBdjdrY3IyWHNJUGdOQ3czODVCNHFVWF82Tkl3dXdtS04yZmFDWHd2UmZhX3F1NFlNX2ZJdEs?oc=5",
+          "published": "2026-10-25T06:00:00+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fntimes",
+          "source": "한국금융신문",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "12개월 최고 연 4.10%…경남은행 'The든든예금(시즌2)' [이주의 은행 예금금리-10월 4주]",
+          "summary": "12개월 최고 연 4.10%…경남은행 'The든든예금(시즌2)' [이주의 은행 예금금리-10월 4주] 한국금융신문",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBBZ3RWRXFzdmVrTTNXb1NDcGdQNzhQYVFlNC1ydGVnMnZMUGRDc3o1cUpXMlo1akU2R0gzSjJRYW5zVmVVaFVoYTNZOWFxa1V0alFoSGg0NUZ5UDNESnZzSG91THM4Ujk3OGh0Nkk5ZmFlaUdvREZTLUVxLUw?oc=5",
+          "published": "2026-10-25T06:00:00+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fntimes",
+          "source": "한국금융신문",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-10월 4주]",
+          "summary": "12개월 최고 연 7.00%…경남은행 '오면우대! 하면우대! 정기적금' [이주의 은행 적금금리-10월 4주] 한국금융신문",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBPV2tMa1l0NHhVWnZlTjBlMDFGVG52LUtqeHBKc21RUmhZb0RsYkVSaDRDTWZ0b1dabk5jMldqTVZsbnVhN1BreTFhVFRGcDlya3RtdlozR011bmhsT3U5ZnAwdlZqOTJEZVg4aGhMTUZ4VnExUDh3UzBtUC0?oc=5",
+          "published": "2026-10-25T06:00:00+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fntimes",
+          "source": "한국금융신문",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-10월 4주]",
+          "summary": "24개월 최고 연 7.00%…케이뱅크 '마이키즈 적금' [이주의 은행 적금금리-10월 4주] 한국금융신문",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE8wQjYyUkF6cHJiTjlLcWhrbmRHbDhZckJ3YTNTUGpEUG1Xd0oySV9kMGdWamJHX0QxMHJ0andhdEczcEZZdXJ5a1hGUEFvcFRFRncwZFg5REIzSmYzRGdaV3VGbmNRU1o3VGp2d25iTXQzdkRSV1lmcnhndVE?oc=5",
+          "published": "2026-10-25T06:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "24개월 최고 연 5.80%…엠에스저축은행 '아이사랑 정기적금'[이주의 저축은행 적금금리-10월 4주]",
+      "category": "bank",
+      "score": 36,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 3,
+        "출처 품질": 9,
+        "신선도": 10,
+        "기사 품질": 10,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치",
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fntimes",
+          "source": "한국금융신문",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "24개월 최고 연 5.80%…엠에스저축은행 '아이사랑 정기적금'[이주의 저축은행 적금금리-10월 4주]",
+          "summary": "24개월 최고 연 5.80%…엠에스저축은행 '아이사랑 정기적금'[이주의 저축은행 적금금리-10월 4주] 한국금융신문",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9ISjV1TVM0NVFFRkJ0bHVkZk1USW5OSTJPeWVJU2dPREViSl9LTENNN3RQTFdua2xyblZ1bml6RC1tbkFVYVRocXc5WXJZOTlxZUZRMmcwOG9qS2VxWm5udldsTTNqYlJ5SjJzb2dPNm02eHpXOUxKUS15amw?oc=5",
+          "published": "2026-10-25T06:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"닫힌 지갑 열어라\"…유통가, AI·이색 상품으로 연말 승부수",
+      "category": "market",
+      "score": 35,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 4,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "\"닫힌 지갑 열어라\"…유통가, AI·이색 상품으로 연말 승부수",
+          "summary": "(서울=연합뉴스) 조민정 기자 = 증시 변동과 경기 둔화 속에 가계의 지갑이 닫히고 있다.",
+          "link": "https://www.yna.co.kr/view/AKR20261024004400030",
+          "published": "2026-10-25T07:00:00+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "日, 'GDP 3.5%' 美요구에 인프라·AI예산까지 방위비 산입 검토",
+      "category": "rate",
+      "score": 35,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 4,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "日, 'GDP 3.5%' 美요구에 인프라·AI예산까지 방위비 산입 검토",
+          "summary": "日, 'GDP 3.5%' 美요구에 인프라·AI예산까지 방위비 산입 검토 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1DMEs2V3pNYk5lOVhscDR1b0hlaHlnMU9iTFBaTHhDektQZ1pobFBLMVQ5Zko2c2NqMkpmd3VKSWFPZGdQYWg3STIwSm5ZQUM4YU5BT29pWFJlTUnSAWBBVV95cUxPMWRtRXk5RmsyTEJlSDVtbGVhdHBUNVZlV1AyeVp0YjY1VlVhbWFscGVqaGRSSlktRVlvWHh5YkV2ZFphcUx0NTFrYlBXZV9obllsVG1sa2NqTmJLeW55cTI?oc=5",
+          "published": "2026-10-24T10:16:11+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
+      "category": "rate",
+      "score": 34,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 9,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "\"수출호황·확장재정에 수요측 물가압력↑…긴축 장기화 가능성\"",
+          "summary": "(서울=연합뉴스) 이도흔 기자 = 반도체 호황과 수출 증가세가 이어지는 가운데 정부의 재정지출 확대까지 맞물리면서 수요 측 물가 상승 압력이 커...",
+          "link": "https://www.yna.co.kr/view/AKR20261023177600002",
+          "published": "2026-10-24T09:00:01+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "[외환] 중동 긴장·달러 반등에 1,320원대 중반 상승",
+      "category": "market",
+      "score": 34,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 3,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "einfomax",
+          "source": "연합인포맥스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "[외환] 중동 긴장·달러 반등에 1,320원대 중반 상승",
+          "summary": "[외환] 중동 긴장·달러 반등에 1,320원대 중반 상승 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9nZjhpd1hzMTc2dGtOQWtURVZtcUg4Q0RERFo1b1Y3VGNpMEk0UGRBaXR5YUx0LVhaYjRBeXBLQUV1dmpHLUhuMVU1RmNfNzg2MWx2Rk41M0RzODh6d0lvcmhaREZPOXYzV2t6QzkwNULSAXRBVV95cUxPa3hycUVIWEUtQkw4WTlrRUZ1eHp0cEVfNkxhM1NRWTN4bWYxajF6cndCSGFyUEtTYm9WeW4tR0pUak51SmtBbjNmLUp6dkJnU3VJNEI1ZlVYMUxScFlMRV9mZzlhaGo0STA2XzdaTTJoXzBiNA?oc=5",
+          "published": "2026-10-24T08:11:43+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "“원화값은 여전히 저평가입니다”…‘반도체 달러’에 1200원대 진입하나",
+      "category": "market",
+      "score": 34,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 4,
+        "출처 품질": 11,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "“원화값은 여전히 저평가입니다”…‘반도체 달러’에 1200원대 진입하나",
+          "summary": "위험회피 심리 커졌지만 1320원대 달러 매도세 지속에 추가 상승 전망도최근 인공지능(AI) 투자 우려와 국제유가 상승 등 원화 약세를 부추길 만한 대외 여건에도 원화값이 가파른 ..",
+          "link": "https://www.mk.co.kr/news/economy/12184774",
+          "published": "2026-10-24T12:53:52+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "고금리인데 비트코인은 왜 오를까…美 정부가 '스테이블코인' 미는 이유",
+      "category": "rate",
+      "score": 34,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 4,
+        "출처 품질": 10,
+        "신선도": 7,
+        "기사 품질": 9,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "newsis",
+          "source": "뉴시스",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "고금리인데 비트코인은 왜 오를까…美 정부가 '스테이블코인' 미는 이유",
+          "summary": "고금리인데 비트코인은 왜 오를까…美 정부가 '스테이블코인' 미는 이유 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE0wU0NfMHNLVzlyTWROaHlodFM1cnFpYUdCVWNVMXdGY0Q2b2MtWU4tRWFkWWxCSUJvZTZ2QjNGRDFrWVI4a3BPMVlCa0NnT2RNVmJlNmU0MWlGTTdkU19XSNIBeEFVX3lxTE9RYXp1U09WV2pndUNsT1RUUnFlUTNCOTd0UlROb2NrWUhITE8tUVRqUE5qMm94M3RnVWNFWnhJRnBlckZGdG1mMWo5S1lWb0FhWlFHZTBldXRoWXd2NDVLaHpWb05LTWVwVzJ3SjNqZ2hVSUVOZTQ5aw?oc=5",
+          "published": "2026-10-25T00:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "시위 금지령도 못 막았다...프랑스 전역서 ‘고물가 분노’ 항의",
+      "category": "rate",
+      "score": 33,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 11,
+        "신선도": 7,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "sedaily",
+          "source": "서울경제",
+          "tier": "A",
+          "source_score": 74,
+          "official": false,
+          "title": "시위 금지령도 못 막았다...프랑스 전역서 ‘고물가 분노’ 항의",
+          "summary": "",
+          "link": "https://www.sedaily.com/article/20105671",
+          "published": "2026-10-24T21:26:36+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "\"은행 간 지 3년 됐다\"…전통 금융 종말과 '국경 없는 토큰'의 경고",
+      "category": "bank",
+      "score": 33,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 3,
+        "출처 품질": 10,
+        "신선도": 7,
+        "기사 품질": 9,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "newsis",
+          "source": "뉴시스",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "\"은행 간 지 3년 됐다\"…전통 금융 종말과 '국경 없는 토큰'의 경고",
+          "summary": "\"은행 간 지 3년 됐다\"…전통 금융 종말과 '국경 없는 토큰'의 경고 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1qNUpaeUVHVmtCeUIzc3NCaW92N3VOeDNjampCTTV6T3dHR1ZaSGV1TW14bXdtWU93aWZrWk95WTRMMUZnMHI3WHItdnhPblFIMlJXX01yOWV6S3A0VURfSdIBeEFVX3lxTFBaRGtmXzRMTllueHJxUTBqd2VxUU5MUWFGR3d2Wm01VlZPalZZZHN6Z0UydHZKUElPTWp3X3MwQmVDRVFrelBTbVBCSXVCYlF4MGdXM1ZoYUoxVm5vcHN0elVMQUljNk1vSnpaZ3Rib0RaSjVHN1pfeA?oc=5",
+          "published": "2026-10-24T21:30:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "LH 사장 \"李정부 3년 후 공급 본격화…집값 바로 폭락할 것\"",
+      "category": "estate",
+      "score": 33,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 9,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "newsis",
+          "source": "뉴시스",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "LH 사장 \"李정부 3년 후 공급 본격화…집값 바로 폭락할 것\"",
+          "summary": "LH 사장 \"李정부 3년 후 공급 본격화…집값 바로 폭락할 것\" 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE44NTFMN2EwWXlhOF9nYXBRa1JLbURSQzJvYXRtUXdaQkdHbFhQV1JOb2RHUDFYREQ1ckRZZGhhOFd5U0hJcklSbTRZMGZqMTNURXUzTG1wLVY3cnVLcGxQdtIBeEFVX3lxTE5PQ0hfWXgtNUJ2bC0xUTVqRW8xSGoySDBkWEtRajh2T01ycnBmX1ByVzc0dGRTbHpXTHhJak1wX3hveGFNeHBDbEd0SEd4UHlxV2x3RkM1MFVqaHk5OVVYSnN6ZGdzQnpEaTRKb2lzQ0tCbUowZXZRNw?oc=5",
+          "published": "2026-10-24T10:57:38+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "AI에 밀릴까 불안…'블루칼라'로 눈 돌리는 청년들[현장]",
+      "category": "youth",
+      "score": 32,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 9,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "newsis",
+          "source": "뉴시스",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "AI에 밀릴까 불안…'블루칼라'로 눈 돌리는 청년들[현장]",
+          "summary": "AI에 밀릴까 불안…'블루칼라'로 눈 돌리는 청년들[현장] 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE41WmNNR3ZacmUteWpqcEplMFJ3ZmRrQkFwdF9CczZuQnZsYVd4MHk5QWtYeGdiSmh6bVUwbWg1bHo4RHc2X0tMTlpxd2pHeFdmQWpBU1VfUkxrOFdORk1QUtIBeEFVX3lxTE1xeTRiTk5keFNMVWFKM0lDMmFKTTVzS21QdmNQMU1pRmRhVkktRDVHeW1vQzVSLVpjNnV1aWdYZkVhTU5EbzlRcGdvbi05b204Y245V1RSNG9ZSkZVbEE3UzZpeHZsWHdJaHItREdCNko0THhqQzFnNQ?oc=5",
+          "published": "2026-10-24T09:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "금리 0.5%p 오르면…대출이자 얼마 더 내나[긴축 청구서①]",
+      "category": "rate",
+      "score": 32,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 3,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "newsis",
+          "source": "뉴시스",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "금리 0.5%p 오르면…대출이자 얼마 더 내나[긴축 청구서①]",
+          "summary": "금리 0.5%p 오르면…대출이자 얼마 더 내나[긴축 청구서①] 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFAzYjBYV2tnbE9WOEhnclpQeXBDZGhlel9BbC1MQ1c3eGdfY3FKdnFVbXBlVXdhV2lmYlV0UGprWnhNYVZrZUQzZWFqRkxyVUEwX1Ftb05aWUoyeHc2SE1iZNIBeEFVX3lxTE9GME5DMnRyOFpMQ1hGVVI1TWNtTlVJWnNpcmhLUFdVQjZRNUduNTlvbVJSSDdLVkVrdnAyVDZoM3owTFlza1ZfeWkwRjJjS3FOVG41dkdkMkZVRGQ2NVF4cGZtbzRjQnpTVmU2NUZBYTZrVUlhUE93Ug?oc=5",
+          "published": "2026-10-24T08:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"인니 증시 반값 됐다\"…상반기 1위서 '최저가'로, 코스피 바닥 논쟁",
+      "category": "market",
+      "score": 31,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "hankyung",
+          "source": "한국경제",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "\"인니 증시 반값 됐다\"…상반기 1위서 '최저가'로, 코스피 바닥 논쟁",
+          "summary": "",
+          "link": "https://www.hankyung.com/article/202610231657i",
+          "published": "2026-10-24T10:00:06+09:00",
+          "feed": "증권"
+        }
+      ]
+    },
+    {
+      "title": "비과세 배당 매력 부각에...외국인 한 달간 4600억 쓸어담은 '이 종목'",
+      "category": "market",
+      "score": 31,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "hankyung",
+          "source": "한국경제",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "비과세 배당 매력 부각에...외국인 한 달간 4600억 쓸어담은 '이 종목'",
+          "summary": "",
+          "link": "https://www.hankyung.com/article/202610232050i",
+          "published": "2026-10-24T08:00:05+09:00",
+          "feed": "증권"
+        }
+      ]
+    },
+    {
+      "title": "[집코노미2026 다시보기 영상] 김용남 \"일본 집값 고공행진…수요 더 몰릴 것\"",
+      "category": "estate",
+      "score": 31,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "hankyung",
+          "source": "한국경제",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "[집코노미2026 다시보기 영상] 김용남 \"일본 집값 고공행진…수요 더 몰릴 것\"",
+          "summary": "",
+          "link": "https://www.hankyung.com/article/202610231925i",
+          "published": "2026-10-24T18:01:21+09:00",
+          "feed": "부동산"
+        }
+      ]
+    },
+    {
+      "title": "올해 아파트 관리비 '비리 경보' 7천851곳…처분 결과는 '모름'",
+      "category": "estate",
+      "score": 31,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "올해 아파트 관리비 '비리 경보' 7천851곳…처분 결과는 '모름'",
+          "summary": "(서울=연합뉴스) 임기창 기자 = 정부가 아파트 관리비 비리 차단을 위해 도입한 '조기경보시스템'이 올해 8천개 가까운 단지에 대해 의심 경보를...",
+          "link": "https://www.yna.co.kr/view/AKR20261024041400003",
+          "published": "2026-10-25T06:27:00+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "상장사 62곳 PBR 개선안 제출 완료…주요 상장사 계획 보니",
+      "category": "market",
+      "score": 31,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "상장사 62곳 PBR 개선안 제출 완료…주요 상장사 계획 보니",
+          "summary": "(서울=연합뉴스) 김유아 기자 = 금융당국의 저(低)PBR(주가순자산비율) 기업 명단 공개를 앞두고 62개 상장사가 개선안을 제출하며 본격적으로...",
+          "link": "https://www.yna.co.kr/view/AKR20261024023600008",
+          "published": "2026-10-25T06:20:01+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "스페이스X 0주 사태에 책무구조도 적용할까…임원 책임규명 주목",
+      "category": "rate",
+      "score": 31,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "스페이스X 0주 사태에 책무구조도 적용할까…임원 책임규명 주목",
+          "summary": "(서울=연합뉴스) 김지연 기자 = 미래에셋증권[006800]의 스페이스X 0주 배정 사태와 관련해 현장검사를 마친 금융당국이 '금융판 중대재해처...",
+          "link": "https://www.yna.co.kr/view/AKR20261024049800002",
+          "published": "2026-10-25T05:51:01+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "재경위 \"주택 종부세율 올리면 임차인에 稅부담 전가 가능성\"",
+      "category": "estate",
+      "score": 31,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "재경위 \"주택 종부세율 올리면 임차인에 稅부담 전가 가능성\"",
+          "summary": "(세종=연합뉴스) 이세원 송정은 기자 = 종합부동산세 세율을 높이면 주택 임대료가 올라 임차인에게 세금 부담이 전가될 가능성이 있다고 국회 재정...",
+          "link": "https://www.yna.co.kr/view/AKR20261024040700002",
+          "published": "2026-10-25T05:47:02+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "춘천시, 중소기업 직장인 점심값 20％ 지원…300명으로 확대",
+      "category": "rate",
+      "score": 31,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "춘천시, 중소기업 직장인 점심값 20％ 지원…300명으로 확대",
+          "summary": "(춘천=연합뉴스) 이상학 기자 = 강원 춘천시가 고물가로 인한 직장인들의 식비 부담을 덜고 지역 외식업계의 소비를 촉진하기 위해 점심값 지원사업...",
+          "link": "https://www.yna.co.kr/view/AKR20261023146400062",
+          "published": "2026-10-24T11:10:00+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "국채선물, 美 국채 약세 속 혼조…10년물 8틱↑",
+      "category": "market",
+      "score": 31,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "einfomax",
+          "source": "연합인포맥스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "국채선물, 美 국채 약세 속 혼조…10년물 8틱↑",
+          "summary": "국채선물, 美 국채 약세 속 혼조…10년물 8틱↑ 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9lY3JYUjRhOW52QUtWQTBLR3F3Z3BHX1RvOTI4eUh3TVZFemVFX3kyTXFTa0V1VTJud2pSTlgzWGNCS3FBNEhqR2gtZUxqS3dCMm1xclg0QXgtUU1XYkM2WGlqWlhhWElPVml2dXducko?oc=5",
+          "published": "2026-10-24T08:37:37+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "韓 3분기 성장률은...美·日·유로존 ‘금리 슈퍼 위크’ [한동훈의 위클리전망대]",
+      "category": "rate",
+      "score": 30,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 11,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "sedaily",
+          "source": "서울경제",
+          "tier": "A",
+          "source_score": 74,
+          "official": false,
+          "title": "韓 3분기 성장률은...美·日·유로존 ‘금리 슈퍼 위크’ [한동훈의 위클리전망대]",
+          "summary": "",
+          "link": "https://www.sedaily.com/article/20105664",
+          "published": "2026-10-25T06:00:05+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "‘에르메스 너마저’ 고가품 마지막 보루마저 흔들… 올 들어 주가 40% 넘게 급락 - 조선비즈",
+      "category": "market",
+      "score": 30,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 10,
+        "기사 품질": 6,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "chosunbiz",
+          "source": "조선비즈",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "‘에르메스 너마저’ 고가품 마지막 보루마저 흔들… 올 들어 주가 40% 넘게 급락 - 조선비즈",
+          "summary": "‘에르메스 너마저’ 고가품 마지막 보루마저 흔들… 올 들어 주가 40% 넘게 급락 - 조선비즈 Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUmZnTzRFSndlVkd1ZW1Ec1YtWDZYeDZyX1ZDcG54Tmc2Tk1LVXctMWJZOXBNRGp2VkpYczdWdE1IOUE4UzF5NHJRZ2xpN0YtMThkLWlpR3lVQmJkT3dLYktBY18wZnpPcm1vVzNpTThuOC1vcUo0OFVHLUdmcC02NTdua3ZKd2cxTG1NNDZadTBSSFJsMGEtSm5ELUkyZ9IBsgFBVV95cUxOMVhkTU5SX0hGUmlLUklndUJETHpVZnM5MlhIUkwzak10SkNlLS1xRUdtM3BoeV9jY1BQTmJlb3prREUtcFZLQV90UVJMSW1sLWsyaDBPc05lYkZBcFVwcWo0bmhiYzRGdThIWFJsRVdqajRvZnFKUm90WHVpWUNvS21KMVpkWS1TRHBsYkM1c2NoZEYtV1J5aVhWbnlvX041bVB3RW9mMElSTmNpaWNJVG1n?oc=5",
+          "published": "2026-10-25T06:15:51+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "[다음주 재정경제부 등 경제부처 일정]",
+      "category": "rate",
+      "score": 29,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 9,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "주체 명확"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "einfomax",
+          "source": "연합인포맥스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "[다음주 재정경제부 등 경제부처 일정]",
+          "summary": "[다음주 재정경제부 등 경제부처 일정] 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBZODh4b1k0eV9UWGVoQWZndFVrTlIzNExuNDcwZ2NrUV9hUXJtdFByNi1RWDIyUl9wT2NqTXFCa05BaDdxcTQ4VlhOdWJja2RFR3huaXJZTjBoSHIteGE1dkk1UWdIbjl5c1daU2tCd00?oc=5",
+          "published": "2026-10-24T08:00:15+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "내년에 순찰로봇 도입된다지만…전자발찌 예산은 줄었다 - 머니투데이",
+      "category": "rate",
+      "score": 29,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mt",
+          "source": "머니투데이",
+          "tier": "B",
+          "source_score": 67,
+          "official": false,
+          "title": "내년에 순찰로봇 도입된다지만…전자발찌 예산은 줄었다 - 머니투데이",
+          "summary": "내년에 순찰로봇 도입된다지만…전자발찌 예산은 줄었다 - 머니투데이 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBIMUtlRTFEUGlfRTBVeW80U1lWdkRrNmVJdE9pQjVzRE9MMGFoYlB5NVIzSGEtUThHVkRTU04wdFRFSmhLb3A5emVBVWNJeWctVTJaQWtva2pLUTBwQ1pZY0FYd25qMVhSYWVkVUdWV1l1Sk9NRXVUZ9IBfkFVX3lxTE1fRlNiMW9IODQtVmxxYVF6Rkk3UEZpUUtCNEJKMWljR2htUGpGSFV0M1VGRWNrcUYxRzBWNkQyMmZBT3JTT3JkUUJTS213Si0yNldBcXdEOEUtTkFYVVdiWmtBNUVybFpOR01KbzZoMjlqVjdCRDc4RjVacVF0Zw?oc=5",
+          "published": "2026-10-25T06:38:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "[르포]\"월급으로 예전만큼 못 살아\"…'레드' 오하이오 달군 물가 민심",
+      "category": "rate",
+      "score": 29,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "[르포]\"월급으로 예전만큼 못 살아\"…'레드' 오하이오 달군 물가 민심",
+          "summary": "[르포]\"월급으로 예전만큼 못 살아\"…'레드' 오하이오 달군 물가 민심 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03MVlCaFJPNHphSmt1ZXdoUl8xMm5IdExDR1YwY2pCMU5OZHp4LXpJdUVDdWJnQ19KME44LS16Q3pjVE1LNVBrVlpXOTVVTFp5QVd6RTFIZ20?oc=5",
+          "published": "2026-10-24T14:22:57+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"1년만에 8억 뛰어 44억 찍었다\"...지금 사야 돈 번다 [부동산 아토즈]",
+      "category": "estate",
+      "score": 29,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "\"1년만에 8억 뛰어 44억 찍었다\"...지금 사야 돈 번다 [부동산 아토즈]",
+          "summary": "\"1년만에 8억 뛰어 44억 찍었다\"...지금 사야 돈 번다 [부동산 아토즈] 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBSaDdESE16ME5CRjI0S3dYN3MzWnVNbFdHZk8yRHRvOHZqTUh4MDNRaTl0UW5sVjBRWEpBd1lQdThERGdpTjB4ODhHUUNBRmk3R1E3Y0lJcWpLQQ?oc=5",
+          "published": "2026-10-24T14:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"국장에 다 넣었는데\"…'140조→88조' 증시 대기자금 연중 최저 '뚝'",
+      "category": "market",
+      "score": 29,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 11,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "구체적 수치"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "\"국장에 다 넣었는데\"…'140조→88조' 증시 대기자금 연중 최저 '뚝'",
+          "summary": "\"국장에 다 넣었는데\"…'140조→88조' 증시 대기자금 연중 최저 '뚝' 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5uSmVBakM0dXFtaGpiV1hjQUFDa0g1NXNtbXREakhsaTdjaWUxNXNOQlpfUF9VQ0tZcnQ2ZUhFd3JIWFpSQ3RiOXNzUTI2QnVZek5DRVNyZ3ZqUQ?oc=5",
+          "published": "2026-10-24T10:31:22+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "\"국장에 다 넣었는데\"…'140조→88조' 증시 대기자금 연중 최저 '뚝'",
+          "summary": "\"국장에 다 넣었는데\"…'140조→88조' 증시 대기자금 연중 최저 '뚝' 부산파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBERk1VenUyQTZTV3pQRGw1clpfM0hrVU5KMHBBdmdDc08yRElmWC1zSThUaDBYdzNTUkZ4OUl0bWRFbC1VUHpmZmRTZ2s3SzlmM0x2VFV6aVhZNlIx?oc=5",
+          "published": "2026-10-24T10:31:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "소득은 적은데 빚부터…갚을 힘 잃어가는 청년들 - 머니투데이",
+      "category": "youth",
+      "score": 28,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 5,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mt",
+          "source": "머니투데이",
+          "tier": "B",
+          "source_score": 67,
+          "official": false,
+          "title": "소득은 적은데 빚부터…갚을 힘 잃어가는 청년들 - 머니투데이",
+          "summary": "소득은 적은데 빚부터…갚을 힘 잃어가는 청년들 - 머니투데이 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1UdUVQY0laUFJWV1JMVnF2R19DMW1vODlzZ1JKMHg3blVMZ0pUcmZFTWo3M3k3RTJpTW1JZGdUWHlzb2Z3emZkVjlzdzJOVzI0cWdxbHozWVZKSHdYdmMxV1BLRlplTGdOSXJteDhXNFB2SHoxRXVScdIBfkFVX3lxTE1yajY2TnBBVkd5UldqUWpQMlV3b2lwcXE4ZzNvNFRwUUstbE54Q0V0aTR4OERhMHBxNE9nOVlZX3ZMRWx6ZGp1dlVEMWVlM195X1hVYk5kbjBBcTZnekNseG5YMnJEVW1rV05oYklIQXBkaUlNaVNtallmODNUQQ?oc=5",
+          "published": "2026-10-24T13:02:37+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"내가 지켜온 나라가 아냐\"…거리로 투표장으로, 정치에 뛰어든 청년들 - 머니투데이",
+      "category": "youth",
+      "score": 28,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 5,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mt",
+          "source": "머니투데이",
+          "tier": "B",
+          "source_score": 67,
+          "official": false,
+          "title": "\"내가 지켜온 나라가 아냐\"…거리로 투표장으로, 정치에 뛰어든 청년들 - 머니투데이",
+          "summary": "\"내가 지켜온 나라가 아냐\"…거리로 투표장으로, 정치에 뛰어든 청년들 - 머니투데이 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5WN3l0akNYZFFuOEJIejlqTm5fVzFxRGo5RDVGX0Q0VktSdnBjZy1DMDZlbUZRc3hlaUlOaHl6V1k1TTJNTlFWNmZpZDM0a0cwYnYyUWtWaTE0RllhOFNwN2RjeU9ybzVpUk93X1RnUFFUbXZ0UVpUbkd30gF_QVVfeXFMTWdzQXR4czFuSmRtcVJCY01SbHpJaGlZeXNnWElBUGNVd1NoYm03czVFLUZ4U2tCZU9Na1VtN0NTWmxwSncwSVNuV1lKdGxwVkQ1MUtMTy1mQU96amdaX1pCOTVIQWlxMXNHMXhNbERLM05ZS253aWFvV0REd0ZBMA?oc=5",
+          "published": "2026-10-24T08:15:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "악뮤, 평창동 단독주택 월세살이 중…\"비싸서 사글세로 깎았다\"",
+      "category": "estate",
+      "score": 28,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 10,
+        "감점": 0
+      },
+      "quality_reasons": [
+        "단독·분석"
+      ],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "news1",
+          "source": "뉴스1",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "악뮤, 평창동 단독주택 월세살이 중…\"비싸서 사글세로 깎았다\"",
+          "summary": "악뮤, 평창동 단독주택 월세살이 중…\"비싸서 사글세로 깎았다\" 뉴스1",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1BMDhtQmhIVFNucEo2ZjE3VW5xNjJkcVNZdk1zRi00NzJEOGoxX0dPMjF3VndwUUNNTGtaT1BzRFVENE9HOGxPaXNTNHljaURldXFGRGNWZm9lSTRVem1UZw?oc=5",
+          "published": "2026-10-24T09:24:22+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "“SK하닉 고점서 절반넘게 날아갔는데 중복상장?”…분노 잇따르자 철회",
+      "category": "market",
+      "score": 27,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 11,
+        "신선도": 7,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "“SK하닉 고점서 절반넘게 날아갔는데 중복상장?”…분노 잇따르자 철회",
+          "summary": "“SK하닉 고점서 절반넘게 날아갔는데 중복상장?”…분노 잇따르자 철회 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9DZWRhWXoycEpZT2RIbHZpWVBvV3hsTjF3QV9uQkFkc29CeEdiX0lNeE9oUmd6TGhMZjRVajBPTk53dElWN0E?oc=5",
+          "published": "2026-10-24T21:40:50+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "日, AI·인프라 예산도 방위비로 계산 검토…美 증액 압박 대응",
+      "category": "rate",
+      "score": 27,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 4,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "日, AI·인프라 예산도 방위비로 계산 검토…美 증액 압박 대응",
+          "summary": "日, AI·인프라 예산도 방위비로 계산 검토…美 증액 압박 대응 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1vbkgzdGZjMFVaMllmLVNDNzdENUV4UFctbVhkRVZjLUNwZ0trak1TMWF4aTVtZU1ZaEtlcHBTaDhfWjZmQlBJakV5SjlTa1VicmVyTmtnVGxVQQ?oc=5",
+          "published": "2026-10-24T13:34:30+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"올라도 울고 내려도 운다\" 길 잃은 증시, 범인은 금리가 아닌 'AI 청구서'?",
+      "category": "rate",
+      "score": 27,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 4,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "\"올라도 울고 내려도 운다\" 길 잃은 증시, 범인은 금리가 아닌 'AI 청구서'?",
+          "summary": "\"올라도 울고 내려도 운다\" 길 잃은 증시, 범인은 금리가 아닌 'AI 청구서'? 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9jRVptbVl4VmN3aHU0Q2ZMLUpkQ0VRNG5hdFhaMjluRnAwS1pfeXgtb0ZEVnZwbGZuTlRlQkEweGFmWjJBd0xfRkNJWk1TNWpVU1oxLU5iUmxKZw?oc=5",
+          "published": "2026-10-24T09:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "공무원 3000명 세종 오는데…2000가구 대단지 전세 매물 ‘0건’ [부동산360]",
+      "category": "estate",
+      "score": 27,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 5,
+        "출처 품질": 9,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "heraldcorp",
+          "source": "헤럴드경제",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "공무원 3000명 세종 오는데…2000가구 대단지 전세 매물 ‘0건’ [부동산360]",
+          "summary": "공무원 3000명 세종 오는데…2000가구 대단지 전세 매물 ‘0건’ [부동산360] 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE42d3FiQklkc2lTT3dUbkNaVzlTbDd6d2N5aUJhUTlZRGs5N3NnWlZkTDQtd193WUpZbFMzcEVzclRFa2JiT24yMmluS1A2M1VKUjhheXV3?oc=5",
+          "published": "2026-10-24T10:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "채권의 귀환…월가 기관들의 투자 전략은 [박신영의 월가 아나토미]",
+      "category": "market",
+      "score": 25,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "hankyung",
+          "source": "한국경제",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "채권의 귀환…월가 기관들의 투자 전략은 [박신영의 월가 아나토미]",
+          "summary": "",
+          "link": "https://www.hankyung.com/article/202610242220i",
+          "published": "2026-10-24T08:07:55+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "결국은 높아진 금리 때문에 생긴 문제들",
+      "category": "rate",
+      "score": 25,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "hankyung",
+          "source": "한국경제",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "결국은 높아진 금리 때문에 생긴 문제들",
+          "summary": "",
+          "link": "https://www.hankyung.com/article/202610231113i",
+          "published": "2026-10-24T13:00:02+09:00",
+          "feed": "증권"
+        }
+      ]
+    },
+    {
+      "title": "美·이란 전운에 유가 급등…뉴욕증시 3대 지수 일제히 하락",
+      "category": "market",
+      "score": 25,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "hankyung",
+          "source": "한국경제",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "美·이란 전운에 유가 급등…뉴욕증시 3대 지수 일제히 하락",
+          "summary": "",
+          "link": "https://www.hankyung.com/article/2026102422807",
+          "published": "2026-10-24T09:29:10+09:00",
+          "feed": "증권"
+        }
+      ]
+    },
+    {
+      "title": "완도 양식장서 30대 외국인 근로자 숨져…감전 추정",
+      "category": "market",
+      "score": 25,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "완도 양식장서 30대 외국인 근로자 숨져…감전 추정",
+          "summary": "완도 양식장서 30대 외국인 근로자 숨져…감전 추정 연합뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9IVHhGdkotSGhqNUE3dWVLeFd5Q0ZtdzY2VEpKdEtKc1dlanNkcVpGZFptWmdqLXZYRTl4ajZfQ3lFdjRiTEFtU3VyTEY1S0R4bDFSQXU3MXF2MHlFcF92TNIBYEFVX3lxTE9IVHhGdkotSGhqNUE3dWVLeFd5Q0ZtdzY2VEpKdEtKc1dlanNkcVpGZFptWmdqLXZYRTl4ajZfQ3lFdjRiTEFtU3VyTEY1S0R4bDFSQXU3MXF2MHlFcF92TA?oc=5",
+          "published": "2026-10-24T13:46:19+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "서울 아파트 평균 임대료, 월 317만원꼴…\"고금리에 월세화 가속\"",
+      "category": "rate",
+      "score": 25,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "einfomax",
+          "source": "연합인포맥스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "서울 아파트 평균 임대료, 월 317만원꼴…\"고금리에 월세화 가속\"",
+          "summary": "서울 아파트 평균 임대료, 월 317만원꼴…\"고금리에 월세화 가속\" 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1acUFROVlMMU9iUFFvTVNkYml4Y0FrSTBXZXVPU1RTNEQtM1VkYkRud3FzS09CRUhKNmJ1bm9SLTQyakxhYmVGNWVIc0d6X3U4ejhvZDhqTlMyeHoxWm9yN2JMTWg3RUdTRFcxN2JUTmo?oc=5",
+          "published": "2026-10-24T09:37:22+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "[뉴욕마켓워치] 주말에 설마 이란 때릴까…주식·채권↓달러↑",
+      "category": "market",
+      "score": 25,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "einfomax",
+          "source": "연합인포맥스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "[뉴욕마켓워치] 주말에 설마 이란 때릴까…주식·채권↓달러↑",
+          "summary": "[뉴욕마켓워치] 주말에 설마 이란 때릴까…주식·채권↓달러↑ 연합인포맥스",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5RWVhWWDMyWFdZcC1iUlY4c1JUeGFRV083WlBLQTI3SV81ei1ZNTJQWVdGRHdaTW9mcExrXzV0OHlVYUZLV0M2S1J5anM1OGduMzZqV2c5T01tNVZJUWZ1clByakZ0MlRFcFNWekt4dHo?oc=5",
+          "published": "2026-10-24T08:30:44+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "“중국인들만 믿었는데 이럴 수가”…찬밥 신세 된 명품, 주가 급락에 ‘비명’",
+      "category": "market",
+      "score": 24,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 11,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "sedaily",
+          "source": "서울경제",
+          "tier": "A",
+          "source_score": 74,
+          "official": false,
+          "title": "“중국인들만 믿었는데 이럴 수가”…찬밥 신세 된 명품, 주가 급락에 ‘비명’",
+          "summary": "",
+          "link": "https://www.sedaily.com/article/20105614",
+          "published": "2026-10-24T11:21:45+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "주가 이렇게까지 빠지다니…전문가가 본 미장과 국장 하락 차이는",
+      "category": "market",
+      "score": 24,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 11,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "sedaily",
+          "source": "서울경제",
+          "tier": "A",
+          "source_score": 74,
+          "official": false,
+          "title": "주가 이렇게까지 빠지다니…전문가가 본 미장과 국장 하락 차이는",
+          "summary": "",
+          "link": "https://www.sedaily.com/article/20105610",
+          "published": "2026-10-24T10:37:56+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "“통산 6승이냐, 첫 승이냐” 임정숙-김보미 우승컵 놓고 격돌[NH농협카드LPBA]",
+      "category": "bank",
+      "score": 24,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 11,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "“통산 6승이냐, 첫 승이냐” 임정숙-김보미 우승컵 놓고 격돌[NH농협카드LPBA]",
+          "summary": "“통산 6승이냐, 첫 승이냐” 임정숙-김보미 우승컵 놓고 격돌[NH농협카드LPBA] mkbn.mk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9XemQ5LTVxM3RtMWllNjRmOWJieW5Ld0J1OUxQa05nSW1fQXpGV1N2YWplLXZzemhMZUpDN01OTEc0Z3dfdnd2ZlhTcHNvNDNHYkpRYw?oc=5",
+          "published": "2026-10-24T17:11:44+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "군산 앞바다에 맥주가 떴어도 갑오징어 없으면 못 먹습니다? [페스티벌 플러스]",
+      "category": "market",
+      "score": 24,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 11,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "군산 앞바다에 맥주가 떴어도 갑오징어 없으면 못 먹습니다? [페스티벌 플러스]",
+          "summary": "군산 앞바다에 맥주가 떴어도 갑오징어 없으면 못 먹습니다? [페스티벌 플러스] 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA5VF9hUFZCZDM1RzV5ZFl1RThQbXRzcDNoVEthTWZRVWdjSzQ3aERKWmFNNHJHc092akZGbDhlMi1ZSGt5V1E?oc=5",
+          "published": "2026-10-24T17:02:17+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "“한국까지 와서 이걸 한다고?”…외국인 관광객 여행법 달라졌다",
+      "category": "market",
+      "score": 24,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 11,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "“한국까지 와서 이걸 한다고?”…외국인 관광객 여행법 달라졌다",
+          "summary": "“한국까지 와서 이걸 한다고?”…외국인 관광객 여행법 달라졌다 매일경제",
+          "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE14MnFHT2hSQkVkbWlnM0NTcDdqR3ZqbFg1QlFkVmk0TnJGSFJDc1Q1MENGTWh4RlA4TmgtZ0lBeHBVTkJzQ1E?oc=5",
+          "published": "2026-10-24T14:23:48+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널]",
+      "category": "market",
+      "score": 24,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 6,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 0,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널]",
+          "summary": "\"코스피 올랐다는데 내 주식만 왜?\"…개미 10명 중 8명이 폭망 한 기막힌 이유 [머니 시그널] 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9uQVRRSmZVQWNpbVlqQXUwVDVJQWluOTVNNk1fTFJEUjgxd0VjZkhUb1R0QjlwMVN0bTZZbktiUDQ3QmQydlRfOGhZY0xSZUJNUWFfTkpDQVZLdw?oc=5",
+          "published": "2026-10-24T19:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "'채시라 남편' 김태욱 회사, 주가 上 잭팟 터졌다…日대기업의 러브콜 - 머니투데이",
+      "category": "market",
+      "score": 23,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mt",
+          "source": "머니투데이",
+          "tier": "B",
+          "source_score": 67,
+          "official": false,
+          "title": "'채시라 남편' 김태욱 회사, 주가 上 잭팟 터졌다…日대기업의 러브콜 - 머니투데이",
+          "summary": "'채시라 남편' 김태욱 회사, 주가 上 잭팟 터졌다…日대기업의 러브콜 - 머니투데이 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE81Q1JKd3JhNllNMGpqbXc4SXRUbDBLeDh5ODZCN0RLRUdYQ05zSHB4bEVrcnBHaEh4Uk1pcjBzcTMwb3JRQWlXWTF0UHRrdi1KYU5qaU8yWnVGY2R4c2kxMTRvU29WeW440gFuQVVfeXFMTndTdDQyenRUYnp0Umd4SFI3bHotWWR5dkNMNkhXSk40T1QzbUdNRUJ3OE1aWE03ZjR6aFdIUjNaM0ZBU2NOc2VZeFQxSDlnUDBOWXRFQjhqSVhoZUZfZXBjbXpsR2RZeXJXZGk1V0E?oc=5",
+          "published": "2026-10-24T09:32:18+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "유럽 파고든 中 잡는다…현대차, 튀르키예산 '아이오닉3' 승부수 - 머니투데이",
+      "category": "rate",
+      "score": 23,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mt",
+          "source": "머니투데이",
+          "tier": "B",
+          "source_score": 67,
+          "official": false,
+          "title": "유럽 파고든 中 잡는다…현대차, 튀르키예산 '아이오닉3' 승부수 - 머니투데이",
+          "summary": "유럽 파고든 中 잡는다…현대차, 튀르키예산 '아이오닉3' 승부수 - 머니투데이 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9za0dldWFPN0dnQmJ4anp2OGJ5aW1BbGVkczFzMGdLOE84UmlpeXlGRTBfMFo1bFgxdVRrOTE1VGpFMnFNYzU3bE9FV3ltUXFDVTdZRlZpY21hNmVMcDZhMHlheFlYRlM1VjVPVVJYa3Atb1p6c3VpejVn0gF_QVVfeXFMTk5HalZxZERzamo0WWpueVBWazh0UlZlRGozbVhqQW1TQ3ZCRVlnUFBtRkhPb2hQT3ZVMkFiLUZlOHhLUzJpRVZWVU4xX3ZVNWUtTWdQTUM3cDdhRU5yYzVZTDBMcDBkd3lPNU83MDFVUlJYbjl1THkzc3dzSnozNA?oc=5",
+          "published": "2026-10-24T08:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "[반등의 조건③] '노동 절벽'에 성장 발목…일자리 질 높이고 외국 인력 문 넓혀야",
+      "category": "youth",
+      "score": 23,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "newsis",
+          "source": "뉴시스",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "[반등의 조건③] '노동 절벽'에 성장 발목…일자리 질 높이고 외국 인력 문 넓혀야",
+          "summary": "[반등의 조건③] '노동 절벽'에 성장 발목…일자리 질 높이고 외국 인력 문 넓혀야 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9lZnpqOG9GY3NVSjZ5VnFOa1h4dDFkS2NFem96cVpRc0szMk1tRWhpR1M3WElEQnZ5ZmhHcG14ZEV2N2hqRnB2X3RYZjFCWHNKWHhmMktkWTJ2dXl4T2gxUtIBeEFVX3lxTE9vdjVONUEzc0Q5Q2lpbDVVLWFCMGNZY2lPbHFSX1VUQk5QZG5OWXFsbHptS0kxRVFpT21LU2VnT01uVU5GdDhyOHBFdG90TzNaUjlmQlNxQ3Zpc3Vnck9TeWdVVkFuQ3dBVE95Z2x3cTJ3aDlibC1YRA?oc=5",
+          "published": "2026-10-24T16:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "고흥서 주택·농업용 창고 화재 잇따라…인명 피해 없어",
+      "category": "estate",
+      "score": 23,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "newsis",
+          "source": "뉴시스",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "포천 폐차장 화재 5시간여 만에 진화…인명 피해 없어(종합)",
+          "summary": "포천 폐차장 화재 5시간여 만에 진화…인명 피해 없어(종합) 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE53STFrT1lVU25jS3dOWUZ6VE5RcnJWY1RBbV9ZREQzcDMtbVhUSERERzR2RndhRXZGeF83WVMya1loLWhfbUd5NFBvXzdldEpEeXBTQ0JTR0s5QlZJd28yR0NzUEU0cWM3a09ydEJkeFBwbmxDVm1pZdIBeEFVX3lxTE53STFrT1lVU25jS3dOWUZ6VE5RcnJWY1RBbV9ZREQzcDMtbVhUSERERzR2RndhRXZGeF83WVMya1loLWhfbUd5NFBvXzdldEpEeXBTQ0JTR0s5QlZJd28yR0NzUEU0cWM3a09ydEJkeFBwbmxDVm1pZQ?oc=5",
+          "published": "2026-10-24T17:40:42+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "newsis",
+          "source": "뉴시스",
+          "tier": "B",
+          "source_score": 65,
+          "official": false,
+          "title": "고흥서 주택·농업용 창고 화재 잇따라…인명 피해 없어",
+          "summary": "고흥서 주택·농업용 창고 화재 잇따라…인명 피해 없어 뉴시스",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBoY2Etc200RXRmWWw0VHo1MFFLQWpTajQ2MGVkOEtQZE9YbS1RaDFXUnlSWndCNUJlUDVGdUpTN3Y3bVVoUFZobUxKSWx1dUkwdDRFcTVoOXVoaU5RYVVHUXdKQUMwcGpuQzIwSXJ3czBrank3a29ZbdIBeEFVX3lxTFBoY2Etc200RXRmWWw0VHo1MFFLQWpTajQ2MGVkOEtQZE9YbS1RaDFXUnlSWndCNUJlUDVGdUpTN3Y3bVVoUFZobUxKSWx1dUkwdDRFcTVoOXVoaU5RYVVHUXdKQUMwcGpuQzIwSXJ3czBrank3a29ZbQ?oc=5",
+          "published": "2026-10-24T11:01:33+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "한 아파트서 12차례 걸쳐 상습 절도한 30대, 계단 숨어 있다가... 소름",
+      "category": "estate",
+      "score": 23,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "한 아파트서 12차례 걸쳐 상습 절도한 30대, 계단 숨어 있다가... 소름",
+          "summary": "한 아파트서 12차례 걸쳐 상습 절도한 30대, 계단 숨어 있다가... 소름 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TRE1naEl2N3dwZWphTjdKZlNvSUtIMTBuRzB1Z1hmRmFFMXZNU0d5ODJpb1lUOFBlTWcwaHNJNjFWS0NmMzljTTJsMUcxckNJeVZBTWxLcGV0UnQtVTF1eEpwMNIBY0FVX3lxTE1TRE1naEl2N3dwZWphTjdKZlNvSUtIMTBuRzB1Z1hmRmFFMXZNU0d5ODJpb1lUOFBlTWcwaHNJNjFWS0NmMzljTTJsMUcxckNJeVZBTWxLcGV0UnQtVTF1eEpwMA?oc=5",
+          "published": "2026-10-24T09:17:00+09:00",
+          "feed": "구글뉴스"
+        },
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "계단 숨어 도어록 엿보고 빈집 '탈탈'…한 아파트서 12차례 걸쳐 상습 절도",
+          "summary": "계단 숨어 도어록 엿보고 빈집 '탈탈'…한 아파트서 12차례 걸쳐 상습 절도 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1tOS0xN01qa0FsY0xDRHBhaG41UHgwSTFpdjEtRHZldjYyelpfZHJGcWk0MzFIYjYzbjNtQVdKY3JJVnB5RFJKalFKb0hHV0V4bzhqTlNYOF96QQ?oc=5",
+          "published": "2026-10-24T09:17:49+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "美 \"빅테크 규제 풀어야 철강 관세 인하\"…EU에 재압박",
+      "category": "rate",
+      "score": 23,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "美 \"빅테크 규제 풀어야 철강 관세 인하\"…EU에 재압박",
+          "summary": "美 \"빅테크 규제 풀어야 철강 관세 인하\"…EU에 재압박 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1IVk5sOVEzVnhzdjIwSy1iZ3NFM2VQSDZOZHJULVlCNVV1MG41VzdaNjQyNmlZVXpjVUN1aS1RTGdjdUxuZ0tiS3k3bGtqLVVCZW5CRVpEck9IUQ?oc=5",
+          "published": "2026-10-24T10:20:07+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "빨간 넥타이 매면 주가도 오른다? 증권가의 옛 출근 공식 [여의도는 지금]",
+      "category": "market",
+      "score": 23,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "빨간 넥타이 매면 주가도 오른다? 증권가의 옛 출근 공식 [여의도는 지금]",
+          "summary": "빨간 넥타이 매면 주가도 오른다? 증권가의 옛 출근 공식 [여의도는 지금] 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBpTUxEUDd3VUtJYzFsc19JN1ptVTg0Y1JDUGZFeTdJN2FuMVB3c09mZVJyNDI0WXpNR1dybTlRM2RGUUQzLWFhQlJoTV9ZeDlVRmNXeWE1VnUyUQ?oc=5",
+          "published": "2026-10-24T13:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "첫 법정기념일 ‘한식의 날’…송미령 장관, 외국인과 바람떡 만들며 한식 알렸다",
+      "category": "market",
+      "score": 22,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 9,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "heraldcorp",
+          "source": "헤럴드경제",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "첫 법정기념일 ‘한식의 날’…송미령 장관, 외국인과 바람떡 만들며 한식 알렸다",
+          "summary": "첫 법정기념일 ‘한식의 날’…송미령 장관, 외국인과 바람떡 만들며 한식 알렸다 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAySVVRbDlnYkQyU1lWZkttWUdpYnhkNWpTUVFKMjNiZW9BN243Vnk2ZUNZYlJZbC1HQ0dzbmJ0NDJQSWd6czZSdUNGNHUxMFJVUzIyVnR3?oc=5",
+          "published": "2026-10-24T16:00:02+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "브렌트유 116달러대…중동확전 우려 ‘6개월 최고치’",
+      "category": "market",
+      "score": 22,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 9,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "heraldcorp",
+          "source": "헤럴드경제",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "브렌트유 116달러대…중동확전 우려 ‘6개월 최고치’",
+          "summary": "브렌트유 116달러대…중동확전 우려 ‘6개월 최고치’ 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1iMnNEaHRTVlNycW1BRUMyd0J6OXI0WkxKd0N6N1o1R0xFTVVoa3JuQXVNWnNxOWN2ZFpaTXVzcFFhSzYtdWREc2xmczU0VnpSM21weHVn?oc=5",
+          "published": "2026-10-24T12:19:13+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "‘책 출판’은 되고 ‘잡지 출판’은 안 된다?…가업승계 세제 개편의 그늘[중기+]",
+      "category": "rate",
+      "score": 22,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 9,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "heraldcorp",
+          "source": "헤럴드경제",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "‘책 출판’은 되고 ‘잡지 출판’은 안 된다?…가업승계 세제 개편의 그늘[중기+]",
+          "summary": "‘책 출판’은 되고 ‘잡지 출판’은 안 된다?…가업승계 세제 개편의 그늘[중기+] 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ueXNzWUNrVjdkY2EzY1MwZ3BUaFRfZHJoSE4xbkdqekhsclVSYW5YSmlDMXdVZkZqelN2MTJKM2JpR0lILWEwOFQ0b2NETkFITjhaX2d3?oc=5",
+          "published": "2026-10-24T10:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "소방예산 줄었는데 담뱃값이 왜?…11년 묵은 인상론 고개",
+      "category": "rate",
+      "score": 22,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 9,
+        "신선도": 4,
+        "기사 품질": 5,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "heraldcorp",
+          "source": "헤럴드경제",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "소방예산 줄었는데 담뱃값이 왜?…11년 묵은 인상론 고개",
+          "summary": "소방예산 줄었는데 담뱃값이 왜?…11년 묵은 인상론 고개 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFAyLWZFUXgzNUZ4MVVIdzlUYkNqNm8zRzZYLVNHY3Fqc0h5em8ydVJabnV0YzZvdU0tY08wTVRNUUdVbmJ2b1N0NEphYnFHRWdIZE12aXZR?oc=5",
+          "published": "2026-10-24T08:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "단기 일자리 31년만에 최소…건설·내수 부진에 4050 충격",
+      "category": "youth",
+      "score": 21,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 12,
+        "신선도": 10,
+        "기사 품질": 5,
+        "감점": -10
+      },
+      "quality_reasons": [],
+      "flags": [
+        "낚시성 제목"
+      ],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "yna",
+          "source": "연합뉴스",
+          "tier": "A",
+          "source_score": 77,
+          "official": false,
+          "title": "단기 일자리 31년만에 최소…건설·내수 부진에 4050 충격",
+          "summary": "(세종=연합뉴스) 안채원 기자 = 올해 3분기 임시·일용근로자 수가 동기 기준 31년 만에 가장 적은 수준으로 줄었다.",
+          "link": "https://www.yna.co.kr/view/AKR20261024041800002",
+          "published": "2026-10-25T05:53:00+09:00",
+          "feed": "경제"
+        }
+      ]
+    },
+    {
+      "title": "'미쳤다' 승승승승승승승, 5시즌 연속 꼴찌팀의 대반전...삼성 창단 최초 개막 7연승, KBL 역대 최다 기록 -1승 - 조선비즈",
+      "category": "bank",
+      "score": 21,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 7,
+        "기사 품질": 0,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "chosunbiz",
+          "source": "조선비즈",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "'미쳤다' 승승승승승승승, 5시즌 연속 꼴찌팀의 대반전...삼성 창단 최초 개막 7연승, KBL 역대 최다 기록 -1승 - 조선비즈",
+          "summary": "'미쳤다' 승승승승승승승, 5시즌 연속 꼴찌팀의 대반전...삼성 창단 최초 개막 7연승, KBL 역대 최다 기록 -1승 - 조선비즈 Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPQXJEMTBNdDBtS04yTTdaSnVrNDRLZWRNT1p6NmE4MUJQWmxvdXZxSnRrRU5La25rdXh5a2FRSEpydWl0cFNwNkg1TDhrNU96VDhxT0hxMGRaRFVGWmwzc295S1c3YzNvcDIzc0VBOVg4MWV5Y0FxNTZlOXJ5dDhWaTFRMHpWVDlHVE440gGfAUFVX3lxTFBOMkpyNTJtcnQ2QjNFUVVIZXZPTi1uanBZbkp1LUlHNDVFYkJMcW40VEVIMC1DeEw0MWtfY2ZENUJ5SmZ6OExZc045bXpNckRjbEozUG43YXNEaHN4azFiNWJOV0xFU0NNeTBwcUgwQmtWRzV6cFo5ZFg1MnhTa1hhYmZRRmx1Q3JodzN6UE5JTVpNTnlZUzRSZnFNNVlpOA?oc=5",
+          "published": "2026-10-25T00:20:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "“80만원→20만원, 주가 보고 화들짝” 삼전닉스가 오히려 부럽다…‘반토막’ 난 현대차 회복은 언제?",
+      "category": "market",
+      "score": 20,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 9,
+        "신선도": 7,
+        "기사 품질": 0,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "heraldcorp",
+          "source": "헤럴드경제",
+          "tier": "C",
+          "source_score": 62,
+          "official": false,
+          "title": "“80만원→20만원, 주가 보고 화들짝” 삼전닉스가 오히려 부럽다…‘반토막’ 난 현대차 회복은 언제?",
+          "summary": "“80만원→20만원, 주가 보고 화들짝” 삼전닉스가 오히려 부럽다…‘반토막’ 난 현대차 회복은 언제? 헤럴드경제",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1zd3F4N0kxd05vandqNGhlMmctWmd1UVc0UDh1bEVWTnZxSnppSmdkR01fR2h0WkZ3bDN2a3A5eThmUk5JYzRKZlFjMlhLTm05ZXVxMjFn?oc=5",
+          "published": "2026-10-24T21:40:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "“애버리지 2점대 막강한 공격” 강동궁 마르티네스 조건휘 김영원 16강 ‘순항’[NH농협카드PBA]",
+      "category": "bank",
+      "score": 19,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 11,
+        "신선도": 4,
+        "기사 품질": 0,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mk",
+          "source": "매일경제",
+          "tier": "A",
+          "source_score": 72,
+          "official": false,
+          "title": "“애버리지 2점대 막강한 공격” 강동궁 마르티네스 조건휘 김영원 16강 ‘순항’[NH농협카드PBA]",
+          "summary": "“애버리지 2점대 막강한 공격” 강동궁 마르티네스 조건휘 김영원 16강 ‘순항’[NH농협카드PBA] mkbn.mk.co.kr",
+          "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9kNlNFckNNX0g3ZFZ4dXpQZjhHTjUyUHpYT2Z5MVF1cTJINWhLX3YzbGFBQVM5M25xS2I4Q1pfVWZEeDdDSmlJckNUUTlIX196MmlIdA?oc=5",
+          "published": "2026-10-24T09:05:19+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "3기 신도시 첫 민간분양! 서울 서부권과의 접근성 뛰어난 이 곳, 부릿지가 미리 가봤습니다. [부릿지WALK]",
+      "category": "estate",
+      "score": 18,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 0,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "mt",
+          "source": "머니투데이",
+          "tier": "B",
+          "source_score": 67,
+          "official": false,
+          "title": "3기 신도시 첫 민간분양! 서울 서부권과의 접근성 뛰어난 이 곳, 부릿지가 미리 가봤습니다. [부릿지WALK]",
+          "summary": "3기 신도시 첫 민간분양! 서울 서부권과의 접근성 뛰어난 이 곳, 부릿지가 미리 가봤습니다. [부릿지WALK] 머니투데이",
+          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBZMkdxTHd6THQ0U0JFZ2xiXzRXaFdUWFZTU0ZKMGhiSC1PekFhV3V2aG9KZFJkQVhvY0NWU2hVTDlvd01IWV9NSVJCWF9Yang2Rlk0?oc=5",
+          "published": "2026-10-24T09:00:37+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "수도권 규제지역 40곳 확대 속 파주 눈길… ‘GTX 운정중앙역 시티프라디움’ 분양 돌입",
+      "category": "rate",
+      "score": 18,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 0,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "fnnews",
+          "source": "파이낸셜뉴스",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "수도권 규제지역 40곳 확대 속 파주 눈길… ‘GTX 운정중앙역 시티프라디움’ 분양 돌입",
+          "summary": "수도권 규제지역 40곳 확대 속 파주 눈길… ‘GTX 운정중앙역 시티프라디움’ 분양 돌입 파이낸셜뉴스",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFA2WnZPNDRVWkt2bjlNTjBMSnNuRVdyai1FbzRlSHlLQnBWMjZZMTVOWFJrOVNvMVg4VDBRbFlVUmdNbl94ektfTzFXakIyT0ltWHl2bnJyQnJrUQ?oc=5",
+          "published": "2026-10-24T09:00:02+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    },
+    {
+      "title": "\"사상 최초의 일 벌어졌다! '역수입' 처음\" KBO 홀드왕 소프트뱅크 육성 3R 지명, 日 매체도 주목 - 조선비즈",
+      "category": "bank",
+      "score": 18,
+      "detail": {
+        "보도량": 4,
+        "기관 연결": 0,
+        "키워드": 0,
+        "출처 품질": 10,
+        "신선도": 4,
+        "기사 품질": 0,
+        "감점": 0
+      },
+      "quality_reasons": [],
+      "flags": [],
+      "outlet_count": 1,
+      "official": false,
+      "articles": [
+        {
+          "source_id": "chosunbiz",
+          "source": "조선비즈",
+          "tier": "B",
+          "source_score": 64,
+          "official": false,
+          "title": "\"사상 최초의 일 벌어졌다! '역수입' 처음\" KBO 홀드왕 소프트뱅크 육성 3R 지명, 日 매체도 주목 - 조선비즈",
+          "summary": "\"사상 최초의 일 벌어졌다! '역수입' 처음\" KBO 홀드왕 소프트뱅크 육성 3R 지명, 日 매체도 주목 - 조선비즈 Chosunbiz",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcFNMNUdxci1vYUlidFJqSW9hOHhOUGlQY2hWTHhrSEloM1J0VW1mZ2JibVl4N3ZvREdPWnIxWGdYTm9MUXJmbDNQejlLcU5ObjRCV3pJU1FMaVc0MEw3OS1id01GMFBRN0NEa1hZX0lxX0N0Ml9qUkl1VUpNR1RPWkEtZmlLejlfSjFfTlFHTHlCamc5OFYw0gGXAUFVX3lxTFBwU0w1R3FyLW9hSWJ0UmpJb2E4eE5QaVBjaFZMeGtISWgzUnRVbWZnYmJtWXg3dm9ER09acjFYZ1hOb0xRcmZsM1B6OUtxTk5uNEJXeklTUUxpVzQwTDc5LWJ3TUYwUFE3Q0RrWFlfSXFfQ3QyX2pSSXVVSk1HVE9aQS1maUt6OV9KMV9OUUdMeUJqZzk4VjA?oc=5",
+          "published": "2026-10-24T16:00:00+09:00",
+          "feed": "구글뉴스"
+        }
+      ]
+    }
+  ]
+}
