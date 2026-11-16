@@ -1,0 +1,629 @@
+{
+  "date": "2026-11-16",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "증시·환율",
+      "score": 59,
+      "title": "코스피, 0.28% 오른 5,305.40 출발",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE05cE82N3VCUnBrVWtzSzNFSDVGVnlSVGY3UGVOQ1VrWGRPRTdrR3J3MEVQdDVlZWlqQ1JkU2dNYmY4dU5GTjRRVEZXWG04akdIRG94VkVzWTg4YUx6S0t4Z1U5TTJxQ190RUdxOTAzSGvSAXRBVV95cUxNV1dqS096dXRYM0dFWWIwUUREQkQ1MGR6UUI4SF9iYjZaaG5YOGVrRlJ3RHpnYkkwM3hsTnRubXpkNWR6M29xb1FrYlZMRjBEVkl3d2xrTHNHaDhMYVNYdVY2NTBleFBtQzBmMWpwclZoejFqRQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9NOGRDY0FWSDhYWF9yMXBNLXViQlF0Sms4cWhIazdXZWdSbUVhOElyUlE0YzRXcjdxelV5RVNiOHBlUkUzTExsQVMzNFhMLV9YckZIbElFM3NsVllsMGV4RllVSWR2Vk1v0gFuQVVfeXFMTTU3azcxZVV1al9KbzcwTDBON3ZJTm1pTlhBRUVTVXktV3NuUHU3LWxqajNBemVfWE10SXE3NUU3aWJNXzFBdnJac2lMVmZtUEFraEdPYjBWNkFNQkNBYVgtZ1BOSlFPaTJHRF9oRlE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBJWmE2N0dzQ3pEVVl6eFlJZTdhNWVnYVQyQ0c4VHF2c2dWdFpVUFpZalA5YjljX1Z4Y09TdFZSQjBvR2VTNHY4ZGc3XzRxMmNHTFZPdW1hRkJGVkFOUHE0VF8xdFZVZkU00gFuQVVfeXFMTWV5UTR1cVJOY2Vib012RmF0SmFJWmlYMENCQXJLYU1RZ1hibkQ5NTJIaGNJRFJ6dXByZzJaREZ6bjU2UXRfazI5NnJQSmFfNE5zdGo3QTJyXzNnS0p2NVlsU2gzQzI4RmctU3dSWWc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTSVNMYjVxVEU1Y0UtaEtweUlEenNBeEtVbnRSWk9Ud3NISWhmcjhmM0J1cHpkWUtQTXBLdGZtbmdBX1RoNUtQXzhXZ3NnQ01IeEMyNGFNRjBJay01aUcxOXBIN0RVaFZGWUREc0FRLV94bzM3ejVoVzJLYw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBtNWhUTW55QWpwRndBWllZcThtQ1ZHWndCUWZVVkp1SU9DYm5SOWdKVVlOTXJDSGZiMGMxY3dFa3llT05WLWltVHM4emIxR1dPSThtaW1ROVVfM2JxYkhF?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE82b0RlMzZBdDVWZU5RTWlCZUJfLWJ3ZWptbmtzRHpzdXNYMGtwQjVSeEdwMWNoSUNHRnBwN0tvLW1FbHRMenRudEhmUFN5ZHpyNGlYOXlsSDZkdTJjOU9F?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "금리·정책",
+      "score": 57,
+      "title": "금값 떨어질 때 더 담아…한은, 金 ETF 5000억 육박",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20114583",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20114373",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2xBN0JTd3Q3WHpWejhPeU9oOGJTZnFUUG5xcldOVkdLbGdlUUVNUkJWTmxxV1JjMy1QWHhQUl9wZjNUSldxNkp3aUt5RkRlaWlxV1hvX0JQTm5oeFg2RzloTEsyQjExLUFDYWRrSmJMSlRPMm5HZldsSnVKcy11MGNrcmhvZ9IBmgFBVV95cUxNYkFxek0yemptX2h0ejBOWC1WbE5YTmpBWk5PNXZHWXB4VmRzaVc3c1k1YzQzNEtzaF9TRnVKWGE4bXVTdm16V0pmRHdzeTlzbndVZDhuSFBEVk9SOTJjVkVXcHpMazJjT3lueG5GbmtfTzJ5T1JqTDIxQnowdWcxcXRXYkNoUmduNVhYeVNRTUF4aE0wMExyLUpB?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "금리·정책",
+      "score": 56,
+      "title": "세무사 수석합격자, AI 부정행위 시인…경찰에 자수",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261115050900530",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261115021952002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261115028600004",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261115016251530",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261115021951002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261115021900002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261115016200530",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9INUpYaTc4WXl6VHFlbk9VcDlBc2Jxb0xKZ0ZYdlo1VExXYUJJZklNaFRVMGUtZmZ2cGNxT0puX0R2NVBMTG1BV0kxSGhxZWtwaEpGN0JQdi01aFXSAWBBVV95cUxQTVcxWXRGQUVDYzBScF9pVzJ0MGFaLTRTVHdyS0R6SGpWbUNOM0tXUzRUTWl2RDJibmtBRGVZdU44cVZYSGNzTkNhWFRKQk1wQUVPWGN1eXdJV05HekFEYmc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqQjN4RDktdVRfR24yYUdZb0k2YTIzSnd5RnJtTXMxS2ttZmUxSWZXVVN6UlVIWk5yM3ZCcHMtRFRjS0xDWGhLSDNnVDhxVWwzdlRJVy1QUjV6LWPSAWBBVV95cUxNN0N6dnE4Tm00eElIbHA2T0J6WGh6TkZHWGFSQkxzTHRseFpZeWJVQmxMOVFlcGZpVm4yb0hZWmVGcUx2d0c5bnEyVmhYZzVBMWlfSl85VHhzVnBhYks1bHM?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9EMzF1RFRybFU4bmI4bHhGall2WVVkdnhRVVR4OUxPeXIxVWdxblhBTERxYkdxd3R1NzdZMkZpblJWam5XNnB6Y1dSOWpJYVZfUXo1UE04QzdVR1HSAWBBVV95cUxPT1p2cXp0aXlaTXFrMlV1Vm12WlhkbjhhVUlHblBzQVlvUnoxQkdQeU9aSTlkSlc2X2lwalgzak1pY29obTNRYW1nbXhXdjMtN3VWZ0tyTzZMMk03c1pCRXY?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5nYVRSR0xTaUdTcDdtUTJEQ2xmS0FEa1phOU94R0Q3dkhNUHJQWFFacVkwRTBJeG5sRGwzWVYwWm54OGhOVWZTNFV6d3NrSHQyaHM2bGVEcVBUbGvSAWBBVV95cUxNemZjMGZpTk04ZDBDZUlhN2UxeVZpOVhsYU5mTlBmNl9jRkZzbTFGV0gtXzRvZ05laWxFSE5JaHlaNERBTnIzNEVtSUsxMGdyWFJPS3lJSVdrTlhaU2ZWUVA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wYjRJQ180M0c4OTZFNXdZaHZQVTIxXzJJX0lxT2ZkN29uM2dUdjJzTmIzeEhScnRqbkdMRHpiWmpSak5iOHFsWnhKeWhIcjNBS2tJRXVaS1pURFHSAWBBVV95cUxPa2JNRHQxbGpPeEZkN3RsVUtPS1g2YUo2S19ZNGVEUm1FNG9qVTVnMTFRQUx3LXVSNGkxbVp1SFBWdTNTNzdHQXZwS2ZBQjZaWnNPdUE4QW5JV1ZYbFNUZlk?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zUUkwQnAyNTRSenJnVDhaTFJFcmpieVpJZjBmZlBwdUk3N0JWR3pJTk5TSTFNZWEyU1Q5Qm1wU3pWdklOTUpkd1RMcHVtTmtRWkc0RWtUb3pvTnPSAWBBVV95cUxQbkNIc0FJaElyYUNFUFZISWFPV090RThPMTRoUV9TbjdXRnRETWNwMEE4VDl4bkxBMmw5ZGxHeTJET2wybkNRcHJja0RJbjRwNG5TNGZnV2tmTG92UFB1bE8?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5TZEVGcF9RMVFKcjFZUUJ4WU0yQlhfYkw4TWNMal9Jczh2emVMa1RyWnRtdEsxM2I2ODRDaTNRWFlQUXNpZ256VHNONm16X3FQLWN4REdZdjVZbjVEU0dpR9IBYEFVX3lxTE5TZEVGcF9RMVFKcjFZUUJ4WU0yQlhfYkw4TWNMal9Jczh2emVMa1RyWnRtdEsxM2I2ODRDaTNRWFlQUXNpZ256VHNONm16X3FQLWN4REdZdjVZbjVEU0dpRw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yQldzV0NCbVZWdFpRX2VqclFRb0thclRVNzRMSzBUd0p5OFl4UGdnYU41S2l0MC1SdHk3aTF1M0RrcTBzTHVva2FBUk9WVnpnd2d2OEtQUHBWM3PSAWBBVV95cUxNcE5WUHdiOThkQzFaMmlSeVNpUzhuay1TLTdPOXk0cVVnaGVWSDVKQk5rRjk5N1NxSHQtMVlxRE0xQS1vQ1FWQl9QalNTUDRHOFoxY21aSlQ0bFJaMW1hZ04?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE55QzR4cEpMMm1lT2NaMUo4VHBIYXREdlRBX2FCTm1ZVnlmeGhJTUFIUHJwV0NOTnp4ZEZOSHZNRFprTlJJdVhFQnQyRy0yX0lkUEh4NzNGM1hPZEnSAWBBVV95cUxOZHNZVnJEeU85UmV1QVNFc29YMHB6WXJPWFZPeHZvcHJ6UmtpYzd2d0tYTno5YlFrSVhHOVdQSnYwOURORjAzQWhRTWYtQ0FpcFNNdFlGa3NXU0VOUElESU0?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1wOW9kc3Uxc0s0SGFKUEp0MkdCRVpYaDExUmZwd3RkMG9ld0cxaXY3bzN3WVVIZ1FwbExQM0VHaVR5TlRubU16a0hENXZxRE93Y2xYTm50M2VtWHfSAWBBVV95cUxOM1FBQ0xzbEo5ZGkxTmNMSXRMUnIyRHJTeDhDWWNHanVPY3k1bXBmWWJGR2lJb01YTDh6X2lib19fLTNjcENVNndwRUNjWU4wNmQzSHdBNTRWcERtTEtKNmE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lQWhrVUtjMWViYWNaNWFJZW9tN21RMmw5aDhTNzAyWElkUTYyZXRZMnd2TkIxWEN6bG9BeHN1bGtPNTgwVF8yVjAzaS1tdDV2QzZjTVdCdDV1MmPSAWBBVV95cUxONG5FQktzVXFER04wVFZsOTd6bjhUWXBKVlZxNWppVS1XSkM2ckwwRmIzS3haXzZ1R1hZTE5FSHRLcDlUMV9HaVJnNjcycV9CZzdHb1lfRUtTcXJFbWI0WUw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE8yYXBUZGdOZEFJdEo2MnZjNFhvMEhQcDdmcmoxVnlfS1FfcjB0X0dMWmRZMHRLdGZUOGUyZjE1SGc2MnlKWllMai0ydE5ROGRxUXUxbkM3b25reUXSAWBBVV95cUxPUnlZbmJTZzB1MFF2MDNhVVNzQUJBQWEtdzF5RnZONUd5UkVna05pLXRSVVhPOHBtZ3BOQ3pnMTNDb3daQnBGSGJBUDNURDZtWVloMDUwM2lyUXR1QzQ0dG4?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBDUldjZ0JONEN4ZElxd3lYRzg3aHlXenR2MloyY1R3RG5oWnRiODhtYnAwNEJGRVo3MGxDTV80alU2NktPS3AyVGxvczItZE1Bc2c2SENQbFVOODhYR1Q1T9IBYEFVX3lxTFBDUldjZ0JONEN4ZElxd3lYRzg3aHlXenR2MloyY1R3RG5oWnRiODhtYnAwNEJGRVo3MGxDTV80alU2NktPS3AyVGxvczItZE1Bc2c2SENQbFVOODhYR1Q1Tw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE45S1J3enlON09kWDE4d0FmM2xtLVpndmkxWFE3MDBfQ0lIZ21mVEM3eEhKRWxuNmlJSm5jd1lsS3NVQ2ZDZDlHSWYwSnhkZ0lvZFRUcE5ydVptZ0dvMnQyVkJkc2RzanJFdkdZbjJHX2w?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9STlcteGJySlJ5RzhSN1lmWnZXVGZzTV9talhMdTlQZXBzb2Nhc2JhM3lHM21GOTd0Q3pVUGFvZHdGaExKaWZmNEpGdlVMM1BUbE9xVmc1NTlYMVBwaThJQ1c3YTgyUzVtekdCSXA2TlM?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20114449",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE05VnBlY05XVXduZDltVWNnWVFrT1diRGVzU2NUMW9CYTNmem9VdnFmTlpyalhDc2VpQTBVZmwzMkRNeDhKVHVVc3pJWW03dmp6N3l6VHY5R194Y3Y3b3FKMV9BZ29YbzRW0gFuQVVfeXFMTVlhMGs1aTRiWHhrNnEyM2pXQUJYcnQ0QnhjaVQ0Z2E1WE9wcjBDU3Q4elRkSEpIQXRRbjZsUnNEMXJLMjcwVlVoVnJyQ2RXNlp3YmFDNVFvMEZaWC1aZi1MbTBBMnc1M2dYQXVwUnc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE00ajN1QmlSOEdvSTNvWmtBRG04LUZBOUFkYjJ3dHJrYXZwUkR5RnBPZkdIcURDQXhXSmVHX04xQzlSME81aHRZZEJoWkNqUklzZ2ltNlhrTER3bjFOMEkzVHNxdGt3Wk45aWUyc1NtNVdoc3J3VEs0OXR30gF_QVVfeXFMT2ZjMFlGdTNud2FYX0FfUlFITU02bjVLYlJFY2JTRlZlQXVqNjg5SkRoNms2X3dfdjFraFlJcXdZbXg3ZjJEbnlVWTROS1F6NHlfNE9sYlFzSHlOc1RIWFlkeGhrRUxBbVQtNVVnYU95TmhTN24xVXcyQ0VZVE9Odw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9MYnRJWDJIQng3cHdhNzhVVkh3dTBMNk9QcTdJeEFFekVJclE3ZzdveGstNVA4Z2k1NzVkM2dSc2R2MDZCMkZNblI0ODRlbjlQNmRhRVRGNW1BaC12Tld2QnNUeUpoN2VSUnlnY9IBckFVX3lxTE93YTMtMkV0cGR4RzJJaE5JR25VZzFiaXJDX3FrNUkzeGszOFZJRHBzOTg0NXVxYTNVRGZZLWVDVGdNSVZlSDRoczZPc3lVMDk2UWZhM3Jsd2k3Rk1xSlg2WVpuNEU2Z3o5cjhEY2Z1UjNvdw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE02ZEVvRVNJa19wSHhab1hLT2hBZW5laGhYLU1kdS1DdGtjdHZIbnBVdnZoNjhuZk1pU3lpakJrN1dRQXYwalphSXFzWUNzRnphMDY4VTI1OWdISUx3c2VkaTB1dEd5R1JHMm5TZdIBckFVX3lxTFBBNGFaN1dTckIzY2s5Yk43dTJTRWZQb19kemQ0a2w1Q1QzSDcwLUV3cHdWU1RPSHM4M01iZnE0OG9YRDczOWQyZmlMS3E4TlJaNXBKbE91VXVkWVcycEFITFFpUjJkdWlBZHNNemJ4MHhDdw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE8tdDNMTWNUOHRzaE1BWkd1MjRXVkRFa1RNUkp5a29uRFhWTUVpVnNzTDVfQzA1YlNwVk9yYmdaZkpEbC10N0FORGRja2hLZFF2RU5WZlFMVjBBSXlqR3d1U2p6c0lUbXE4aVFz0gFwQVVfeXFMUDZLT3ViSUZfNWRHa3ZydTBpYlRraFltNnpIUmxNeVFOMXRtMjQxTkhQTC1GZXB4VjlyQWtuTVExVjM4cU1Ka2hzREdMY0YtSU5PNEttbjIxckFYc3ZpeGotbzR4TzN1dTVOcm9PUWxDMw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5NR0RJd3F1WmNXZDhxdFo3U3o2NjYzenhlTFk0dEtLX0xHclRkQnJzc1dIM0pyTVREZTRoc2VVQzEzZmRVV0IyT1ZUZEZXaDI4TFhsdXNDVlBQRnlULXd6cjRSQ2gxU1A1eUV1YjYyZGllVm5NU2RUek5TWQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBDRmYyamQ0dElFY0lKSWtwR0xmbjNUS1ctTnZIR0lkaVJ3UkdGa3dNMnBLRDIzakVtWXU5Uk00RGdfODBrY2l4SVlQRzVlMDN0NzU5V2I3RExaNW5RcWV1WFMyU2ZOUWd5WTNselZjQ1hINnJudUZ1VWUzUmM?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9FVGhPQlBmeDhoNzZCVnZ4a1NLMzFBWTJURnRiLUI0d2pvOE9KMVNobFV3ZnhpY0VpWGJnUXRpQWZGV09QRDhNNjZ1d2d6QmFoLWZMUXNscnJkX3NjZWNxaktXbzV2TXRTX1FUcGEtVHFVUFFmRXgxVnRIbw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE82WC1CYmxFSmlyQzdPLWtILXNBOFphZnU4ejMwVE5EZ0V1Q1VZbzZyZzRhTUhSNEV1cmNWM3F5VnJCdVpfZGxDYUpFRkFPMExPaUZDRnhYS3ppWWtMUnRrZ3ZSSTZ6UlliUnVjX0RJcGI1aVlQd1BzV1RKMUQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1CcW9RYWhsb19ieXdNRHpWWWRZZTdnVDQ3YTFNbDk4dG4xNmJra1ZFa0ZBVllna01pLThuZ0NPZENkUmlLUG9kR1ZKUFpJM2RLcW5udjdmck9CMkJxZkp2dmNqWHdIazVITkdzWlJ6dmRib1dETTlmbG56RQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qVndtM2xsVXJvSWg0dGFiMXdmcGFpajRheHhKajRZMjRnSnlQWWxvSEt1SmU0VS1veFN6bkFxbDg3THVzQ2pWNlo0S2tGTDBRNEVxU1ZrdW9BSjVKTWNfOHJDOEJsRVRWSldhcEhVcm5TQ1cwemY4SDFCOA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOcU1GNGxpWEpUYmFpd21ORmJ1Q3JqZl9PdDFyTXd4N2dnMGNPdE9oVUhkNVAtMS1reEZ1UUxUT3Axc0F0Z1hPS082ekNGdEhmN0hwa3JEejh5V19MQ0lLSG1DWlhvQ000VzY2RGdqdmV0b2d3ZXBBQkMwbTQzWDcxeg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008846690&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9EYk1qSUdBUXpLd1VuT1FLa1dKTVlfLTduRzZNZTg4aU9VOE0xVjhfVU90TXV4S0V3dUlCVWlTdkdxN1hodHNUM1lqLVpQZTJLc3dkMjNoMDRUX0p3Q1N2UHpWbHI?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9LeldwOF9VTlBHaU93RnRKY0ZvR3R1N3YtVzd4ak13b1lPN1cwRU45WUtOU18ycWZNd2haSklYMk1xaXhEU3o2cEh5c29mM3hmV1BVVTFEeGJQZw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5FZFhVaVpGYXBTZmpyb1N2MVNidVFVTkdEV29EVERCLThQTmplUjBBN3FVVWVfSmQ4TXkxZk03VGp2cDdZQWh0YVdnYUJyNXYybUQ1dDlhQ0ZOLUE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE16QnRNNmpfTTlsWTRUS1NpZlFLZEJrS3oyLXlyenNHSHJBUVJfaFBacjdhYkZmQXJBTFZVNk1wdkNFZUhPUU9CU2Ztdkw1UzlTaU81cF9ndVRIQVdLeXU3WDJfMA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE52Mm5xeTBlTHVLbXpobHJ6NEd1WXp0LWw5a0RaNno0ZUliLWR6eGVFYXdSMlkxZ0JzX1pGeFlLRGVTZmJWLWVLTlZaSjJCeEtDMXRtT2FBd2g2V0E?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE03dFpXaXYzcXNhbHNFNDAtbHBnc2tTamZKdW5OczRYbEt0SGctaW5oU0xVZFVfTWNEcGw2MzFvbzM3QlQweVBFWldTM0FCZXdBU0h1Um81QlViclVWN291SjFnR3g?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFB4QlpZSFhwTmNydkFkR2Y4YWcwNkFLbDRsV0ZtalRFU000ZTJHNlhLemlKVFFxaFdNUXZBbUNHMTI0dkJ0OUtZSDBfR3drREJzRkN5eVhjSC1feldaYTdCVEl5V18?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBuREJpeFFrbHFnUlB2RDBuSmZxdkY4QWExb2NwMGw1Y19fVHNWQUxNMW1CaWJacXA1YXA2RnJIVVlvcGxpd29jMXprMmF2MUhMRnVjTVdYRzRpRUN3Z25KS3Bsc2o?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBaZDJqVjExeUN6enpvRy1ZSXNKVFo3aHM0bE0yUWlKRHhxWkpTR3M2VklVUkFHMXpDT2FmODU3ZDJSWlhnRGNtZkJtRVFGemJOSU1tT3M4dHgwS3dIMWdTNXJKRWg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1ESjRIZUtaVzlkeUZCbHd2Um1tal9BSXI2aTBRWlRLRHFPMGg4aGJYSlJJcnllMi1FdkJmbHZya293WVlYd0k5RDVsTzBjMTRtaGtfa1VEdk5ZalR3Nkc1NU91Zlk?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBqZW5KSlllU3pQeDJLYW9vRk9BSmFQR1FCUjZVSEVnVHBraWhSN1I5dWt3Q3NFTUdpaHpMdjJUdzRxNHd4YllnQVVmeXo2VFc0N0NjbTdRYTF6RzA?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9tN2FFbjM1OUFGemVqb3IyNEhsaThTRUlLOHZHQnRLeWRaRi1SYzh3NHYzVXdWTG1INjREYzBUQzNXTG9uZHdhZkNFWHRtb2ZDdllfSjJQZGh5SU0?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBpbnl5M1ZpRFI5Sm14LXE2QXBmcnZCNnhscHBydmwyVFhWZ253dkVsbmdNYlRyRFJwRGZDOW1kbTk3aXNuUklQa0VJdw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB1MWczekNsRjJTcTZRUy1mTjlhTUtoLWMwNkVQc1dvYTQ4VDQtemEzMjhtY0tLVkQ5ZUgxYmpsRWtPX0xmOURUNzF1aw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5WMUotVGNmdG9TVWUxR2JvLUM4QkUxV3o4RS1kcl9HdGlxbjNJU3NYREo1NnRDb21ORERzY29wV3JmT3loQk94c0tTWFJqY1ZYcVNyYzlXWlM5YkZLclI3SdIBeEFVX3lxTE9BSnVTZlBKR0RieHU4NlJCVm9uU3R1Tm9uem1mVE9wR2R3MWRPUVFRZmRGVUZqNmtNOTJWaHBtRFF6cC1PZ1lqeG15eFJXT2IzWkFVWE96Yjc1YlNKNWh4bEM4X3dJYm1LdVZNZ3VaUkJIenZEX3FuRg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE45RnJ6ZmFQX3Z6NWt3ODNEbks0STd3MHY0N0JfenRtSXlvNlN0T01xRF9KOHVjNm0tRldaVHlQY1lxdkxyMUN1SDRiRDRJRVF0VDhBNGZfWFpGRUVxakhuUdIBeEFVX3lxTE4zdjRHLWdnRlpWc3p1c01ISGRrdWZZOFhBdHVyRl9LSUd4eFNhOTdPSHBJWmN1cWFKd28tcFVudUg1ckJLb0FUR05XUWk3VjRyV3gzRHFaeDlyRHMzR3pOUi03djc1LTVGak8xWTRvMExBcExKX2I2Rw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9kU3NFOTZtSENpejlnVG9mbmdSTk1XYWhHT0d3allEZWpYeWFFOHJzOFAzcDlMc2hZN19VbmVrRGFFM1JEUHhfdlQxcnZDRW5lWWxCWk53bGhCNktUYUxxaDRCNzZoSmFyTzZOalZDR2NocHh1RFJORtIBeEFVX3lxTE9kU3NFOTZtSENpejlnVG9mbmdSTk1XYWhHT0d3allEZWpYeWFFOHJzOFAzcDlMc2hZN19VbmVrRGFFM1JEUHhfdlQxcnZDRW5lWWxCWk53bGhCNktUYUxxaDRCNzZoSmFyTzZOalZDR2NocHh1RFJORg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE84ekIxTVVZcGlUeE5Ka1ZwZzY3UnUzRUFubkxhMGk2RWIzdnFWSFdpQU8zM05Gb2sydHJYb0E1TTJwb0s2dktPN05IRW5CdGtrSWlmdHlHR1NuOVBNT1JWY29keUhsYl9UbXJjSzVxX3EwQzc3bzBTOdIBeEFVX3lxTE84ekIxTVVZcGlUeE5Ka1ZwZzY3UnUzRUFubkxhMGk2RWIzdnFWSFdpQU8zM05Gb2sydHJYb0E1TTJwb0s2dktPN05IRW5CdGtrSWlmdHlHR1NuOVBNT1JWY29keUhsYl9UbXJjSzVxX3EwQzc3bzBTOQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43bVJzc1plamRWS0FpMUVkQ0t5emM2UlBNenlnRUZ4M21oT3NMZFdZLTFXakw5OExNODgyam55Y0syenBQaDhsUG9NZS1XSjJOTjlIM015TVRnUQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5KTWY3RXd0VnZTdlRsRHVyRHpOWmFuUmxycVI2WV93QWY5MDRqOXZWM3R1MDk3NDJTdDFfdVZTb0x4eG9SQXdRWWVzN1oxbTlzVlNxOE1hRWJEdw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBiYm1COGc2OWVyT21PWTNXWk1vRnBwSDNLb1JzQUdaVDhZMExVNGQ0a0ZrWUtRVXJoNU9mb0dETmFYdUgyOTR2QnVucDBTLUtJY0steWtNSkZYQQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1LR2NIZEZRU0hxR1ljbEZFUm1vdGNrZWFKbzlTU1dLaHBUOFdpb0xNeVNVSVRCdHhlVEZiZzBpM0toWXotR1JiX3JqcDY2T2FfYXhSQ1JPM1Z6dw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaWdwazZJYUZYMnZMaTBSUUtid3pmX245cF90MnowYVZUS3NxT2cxM05QS3E5SzY3NHN2WDBGMjBYWWlNVGdLcVFON2FQMXlGaTRoVTF1SW9DLTNjSW9ZREZ1T3U0dVJTZlJ0ZnFfR2hBVV8wQmdNb2RBVjZIcnE2V3NNazRLVkw4MmfSAZ4BQVVfeXFMTm5qeUtxeHFsMmhpalhNemlBVWdxZmkyYWpLUE5LclB0aVNMMWJQQUdjeUxIMXhPdDRvaHZmb0ZnQnZuam14a2RrQmcxWndNQ3BDRHMyVXVsODktWjY1ZkMwYTR3a1FxZ1JiTExQX1d2Wk1XZFh2NkRXN2xqRzh4Z1d3U0EwcVFrTWpsbHZkMU52RXVRcEJ6Q0NpWkw0QVE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY2JTN2tXMWFqUzQwQVd1QXBmcUhPVFo4RkpyWTJYWmphT01tMDhWZ2hKOTV6NkVqaTJKZWZqTnk4UzBOU19XZHVGeWZBRkhaQ29FRU9Bem5sYW5vTldERUFjZDNuWm1jdXZvcHpDMDFtYnh3N1JIZnFuMzV4NnE0QjJmN2oyd0QxM0HSAZ4BQVVfeXFMTlRuc1AxbEhVYVVWVjNiSFpmQXVaTXhqZlpzUUlZUno2eWlQWmdpZ3BwbzIwak1NMXY0WjJaQU1GQVRzX05RVkdicDREX29ENUR2ZVAyMUJYbzYzZUpZcDFjMW9BeURMRUJGOTdIRWdKSzB5Q0tMNHpuRl80enI5LWc3LWxfLXd0VGtwaE9KR2M3bXY3ZUpwTFhGNUlUSFE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY3hhYVItZWJxbTdaZEtZTnJ5Uzk4YmhITE5DWS1TcDBPdUp2WkdtSWFaQ0pQX1AyYUdSSmMyWEpCMVllMHRkWlRfalp4TGg0enZHWXQ4MDFtcWVqRmFKOVZBMzBlUklCWWVjZWF0MHlmZ0tXZmhtZS0xcFVqbnNZQWN5ZllZb3dpZFHSAZ4BQVVfeXFMTzFnTkJDRXJqblVHYVJZY2FQdlh3cmlMdExIOUlJYlpLN3lEZ0FNd3lDZzg2WWhqX19KeURwTlhFUWxSaG4yQS1NNzE5ZWFuY0pKRDc4S2pqR29wR3p5NklfaDFjRklNNFJSdFY3aEp2MC1VYjdSWTNNamRZSC03SFNaU0FsREtuZ3U1dFJVMXRCTGxUcGpMd2Y1cXlNTVE?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY2NuZHpBSUFCWTFMMXlFZTRjM3FrMnE4dmZ6bEx4UERZdkpkazE0dkxEcENnbDRuQzlsTXZ3MzhoaWd6cFhwLWRfX2hDc1c1dlZ0Z0dTSi1OUFU1bVc5WnlrSTFSMnRtOWMxeG9HVTBnajBDNUN6UTZRNF9tVTFGSm80d1k1VFMxdkHSAZ4BQVVfeXFMUGtld1I2ZG9uN2xYeDlIc2N2dGpUdUFZVlp5Mm5NeFFpX3ROOGg2NjBIZ1FsVFlLMElFcFY3TkhDaVR4ZnE3RS02dU1CRk44V3g5b29oX2JVZlpseEdCREZiWS01RkxMblpTaFRHV3VadnM0SzJBOHVqN2x6Zk5YYUxRLTJYczZoSi0zVWowVjd1bnl5dDVmXy1GZUlRN1E?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0ViV09GR2lyNGZGYmliMTNFU1Z6a1ZzcVZTRUM3LVB0QXJnb0hLN2hPR3FFMHNsbEdWQlhkbmlSdjBOcnlNZEp2YkJWQkV4VUhhaEg4cFV6bWZZaWs0NFpMclhEdWRBNVVqR1c0c1IweXByQ2VOSDRhVVd5Z1I1d3pIVjlSdUJhdWfSAZ4BQVVfeXFMTkhkSlBGN1U0VDF5OG11MUFzSk9IYzRkRy0xSURiTXFUaEJ2ODk5OXU2XzFoazd4azE0MENWUl8wOHNQNEZ3UHdjSnBnSzRIWmZnSU40UDB5M015ekJWVzFTaUhSb3NSRzdRbWlYRjQ3bFRPUmRlTUpCT1ZPek1LODRFLW4wMlE0aVFBM21ESHBMRHdLRzdYRmw4cTZYb2c?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zSEp2cmNickJYR0NtZWtIRmdLQVFWclFGSlBpRFdvZ0ZNMEo3NnFyZnJaN3I1dVBBSE90cWdsMDZsbnlySWpLNmoyZG5KZTZlYzhSVGpR?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1pU2I3b1ByU3V0cUdmdlNxa2ZVc29fc1dLUlYydkVKTGZpd3dPYXhSSTZEay1pUXNiVkYxc3N4aE9wTFRvdmtJbjMwVk8tVkRiSXdSYndn?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5taHdTZDI4UnA3RWtBYzAzSzNKbnpxcUVlMWtqajAwVHUwQzhBWUZhOWNFSWNOdEIzYVdGRXpOOERpTWxzS09ldEdoZHU5eC1OQUVvMzd2aUd1SUJlekF6X3dmWQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9ueDdwQ0RHZE9OcGlYRmUzSl8zVUtSWnU2X2JiRENib0ZnMkkyaDR1S21vQml6UWptX3pIVkhBb3NUUk1sNmctVlZuZkdDSjA1aV9qalV3?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE11cVBHQjBzVWlwbUoySVVVeUpESEEyY0FWbEl4ZGpZanJkdVdkRDBBSWxTa0RjYThfNmYzSGtJVzE0TXloOF94bmpGQlA0dlVITXh3YU1n?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBKVG01S0F5ai1sNGpNRG9KSVFqOWhnc3FIXy1WS0lQWWJkT1FtUW1iTHFZMEx5OS1XV3hfOHM1N045b1czVTI0V2paXzlqZmk2bmVCS2JpTFdpQUtCS2REN1l1VQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9Zam5ZNTlxSXJtUUJhbWQ1RFdQSi1PT1lqMzl6azFsMmcyX1FoV1ZlVUxDS3JqMXNuUlU0eFA2NU5acGpQYnc3N1RELWNaQ1NfcktkVVhR?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE84NzRQZnJOM256a2tZanl1Vm5NeGNKaDBRTG8yeW5uYll4c05UOHN1ZHU1MWY0akliTS1Sa0steDJteDFScVZLN0QwYTBvdlFrSFdQelVn?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1wV09VUTF5dUlPNGR3RFEyX3RFd011Qkw3NjUtc3NLZUJQSV85TVR2bWVMX1Vsdkx6N0RXTnNEUGlnOTMxZlhCVHFzc21QUVhxLUVaZl9B?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1LZll5VFdFaTBoUTA4ZzE3ZzNMTERtWVpTenRhTUxHNmVfa0RtVWYzUGFZTFFUX3RBVlU4OHdsX1hrOERLY1U1ZlluNXBLMTl0TUFVMmNB?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE54SVl1bERNUHBkYUVYWi1kMFRhQmlNQnB5MndtblRvTk1MakNFa3ZRY1dxeVJ0cDhhZDdEam1MajBYYW5nQXM0V0NPamIyRWlQQzZqSDln?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
