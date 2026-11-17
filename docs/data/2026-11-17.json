@@ -1,0 +1,216 @@
+{
+  "date": "2026-11-17",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "증시·환율",
+      "score": 73,
+      "title": "[속보] 코스피, 장초반 2% 하락…5000선 하회",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/202611171364i",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026111709757",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzJQejdWOEo4enNMUWhMZmpzOUlyNDBTTmp3TzlBazd2NTRQaUoyMVZvSUhzY0QycXlFd1RyZUJYdE9rdERDR3lqR01IWm9xS2tZRjh3Smsxdkx0MTR2dzUtcGZWM3FLWUZqUEh5eGlZRzlBVW9veDZ4RldzZjQxNw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBISGUxSkJLQ3VSWklNS0tZdThyWXpLSkZpYlVaZG5MYm5ueldabHlBQndJT0hmSF9UUW5uNG9oZmFqbUh6a0p0cm9rQ25PSkQ4bUdMRjFSeTd0ejZZM3Fr?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE14S1JCWGVRcHNSaHhxbVBUQ2lLaDE0b1phYUU5NTlWT3MzeXZrOGpoaURKR0VCUGVkLS1MZ2ZUYXVobjdGSzVZZmNkbVkwalZTVHQ4d0RGdHpFZTJfak9r?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE84Ml9uOHRQdW9DMVZGTXpLVXNPN2FGb1ZCN25qX2JLSzFVUThOVjFMZEhESlJ5TjczelZaNlVJRWcwc0pSWWRJbWpRcnBtbnRxZVptSHpWN1J1cm9HcWxR?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFAtYkRnWGxNNmtTSmFMUFh2dVRidndjaS1WUGt1S2JkR1JQTWZSQ09IbXVsTGtRV0xlak1kMTRFUHdSeFI4ZEhTSjRRaVlUaUlKaWpIb3lQbzM2QQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5kU2NPY3hjbnJyNzhZaWVHTFhOMlk5cDVNUnBxd1NZdm9EcktjbzA4QTRJQk5fX3psTUxVdHBvSjR3UElkbm1VR2hyY1pHLWZwcXpyWUFHRUx6dw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcFRsc0pBWHA3WHJ2UXNFWC1ra2ZvTDBpLXdRc3Y4RFNYcTZ4QUNUVWY2OTVRWUhHMFgxMllucTh4c2RMN1dncGhINXpZdXhhUTNpTjJxT3Bib0EycnNTWE83WGI5QzBhMVRneUJTUlVtVjdXLV9ONFp4bW5mMGZaUGVNamtta1B6bzRrMTUycnBQTVAwYWtGbHE3WlXSAZwBQVVfeXFMUHBUbHNKQVhwN1hydlFzRVgta2tmb0wwaS13UXN2OERTWHE2eEFDVFVmNjk1UVlIRzBYMTJZbnE4eHNkTDdXZ3BoSDV6WXV4YVEzaU4ycU9wYm9BMnJzU1hPN1hiOUMwYTFUZ3lCU1JVbVY3Vy1fTjRaeG1uZjBmWlBlTWprbWtQem80azE1MnJwUE1QMGFrRmxxN1pV?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE85cHB1RnctcE94SWpWQ3Z2d1NTZ0xINEpWMDNveWNQVi14bEVCV2E2Qm0tc2I3ZXZPa3NsRTlBUDF4YUlOOGZhTTRPeW9yR1FXLUJsSkp3?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "증시·환율",
+      "score": 71,
+      "title": "코스피, 美 AI주 급락에 하락 출발…삼전닉스 동반 약세",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026111708786",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE56TDBhNzh6OEFvMXV3QVhMTGN4MFo5Q1BUVm82cWhUZ3NneGp4X1JXRWRNcnQ5RHg5Y0h6cjNHQ3ZyWXFvVUh2Z2YzTTM4ek1UMWdZSDViNGMwUk3SAWBBVV95cUxQd1JoVXB6dDJpVXRnYnFMZkFxdF9lN0sxZHBLQTVicnRHc1MyLXVScXMyNHRsTWJlUmdCbGlMbHlVdndFX2FaWk1GbWFqME91WW1xSzFRX3UwSmVxVGJqdWk?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20115283",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "SBS",
+          "tier": "B",
+          "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008848196&plink=RSSLINK&cooper=RSSREADER",
+          "reuse": "개인 비상업만 허가",
+          "restricted": true
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBhSE9KMnljM01xMmMzN2VQV040bHk5dm1wcE55U3M4NnRUMWQ4OURWbURkbnVpdWV2czJUUl9IaDFHRnlCby1zeFlCVjZoU2k2SDgxU25YNFBNamRIQ1Rr?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBJeUtKYS03SEJZdHRRamZCUDlhaGNEc2pBRXFKcEQwdExZXzdaTndudFRQUXBOWDhmd3VSMlplMGZyLUVLTmg2MU8tU2NPRG5tUGY3OVNLZG1YaW5kaVZj?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "증시·환율",
+      "score": 56,
+      "title": "엔비디아 실적·앤트로픽 상장…AI주 운명 달린 한 주[이번주 美 증시는] - 머니투데이",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "머니투데이",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE94RUozbVJma3hLNUhiRzBjNHFqWTNZOEdIdV80U05fTDlESXlMRTJTTDdwQ1RaWG5Xc19DU2FFeEdsR1oyZ1BhTGJVaExLRzktU01YaWpFLWNxRHB1WWNTdDQ1cFlaTndf0gFuQVVfeXFMTTRXVVV0a3R1bGVZSjFMRVV0MHFRZHE3b3VTaFNjbW8ycWRlOUtZWW81eEFGamo2c0xNQ3ljRXFxeGlkcUxlWEt0UFVIdXgwQmc2Yno1bTJPX0U1aVpLRVNaOXc3b3d4bWZ5TDJMTXc?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "이데일리",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5XR1BucXRrMzRBVkVFUFlkOUpKLWF5a0lpY2ZrNmZoWl8zR0JNWEY3ckFnZFppbW0wOXBpUGdwajdzUlpjWmk5a2dadzZGcTlpcGxLS0ZEck5MZUJSdkF2d1Y5TGxURHhiNEhYaDlhMGVUQTBoOWU1aGhjYw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "뉴스1",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9MZFVKMDlZNXRydHZGc2pwYUo0bDE3NS15VkJFLWpKQ05nTWp4QzVFZHlUN01sbEVrNEZaQ1EyWUtIWHI3Q0pTc2lfMjZoTjJhUkJFNEViSXowNEdkXzRreXBCbjc4NEk?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "category": "은행",
+      "score": 55,
+      "title": "하나은행, JYP엔터와 '나눔 적금' 출시…\"K팝팬들 기부 동참\"",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261117071800002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "매일경제",
+          "tier": "A",
+          "link": "https://www.mk.co.kr/news/economy/12210990",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "헤럴드경제",
+          "tier": "C",
+          "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBnbGpnd2hWN094M1p4NTc5RkFwMElscnVVRU56M2FRNlNSS1lod3R1RW1sUVBXUFJqeUZfbGFCQXB1SGVibHRLNHZZZ1ZMNEI1dkg2S3FB?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
