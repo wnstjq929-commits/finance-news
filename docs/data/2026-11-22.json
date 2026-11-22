@@ -1,0 +1,125 @@
+{
+  "date": "2026-11-22",
+  "one_liner": null,
+  "issues": [
+    {
+      "rank": 1,
+      "category": "청년·취업",
+      "score": 61,
+      "title": "최태원 \"韓·日 기업·대학, 함께 AI 인재 육성하자\"",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "한국경제",
+          "tier": "A",
+          "link": "https://www.hankyung.com/article/2026112114457",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBXOTc4cXhWUzVEUjRLS2h3MklsRUl3Z0UxdDlKSFlBZGxzUWp1RG9JZG9KWk1ybTYxT2EzSEd0QnV0VG1VYW93SjllLWlEdk1NeEc3VFJiZDdYZGPSAWBBVV95cUxOUkliQjhtcEU5Qm15MS1hVkhzMmhuLUgwQVBpelRyT2otRkZDM0dIUm5HeTEzcnRBREtPZ0kzaVBveUhLd3ZmcVUtdS1ZY3ZQUmR3aXZsZWVoYy03RWE4RXM?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합인포맥스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rLW5QdjJGUGZRZTE0d252LWpoMlU5THNhblRwMk1kNGJFSXlwR0hLelFQRk5XemhlcGtlaUR6VWNMLW9PbzQ4MHJ5c1h4UWJzbFR2MjROM2s5RHpLQjhkUElmSWE4aXVyZjFSOWZGaWs?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "파이낸셜뉴스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBIU0lmSXlCZ3JUNXRZMUxRQ0Z2LWpCVWNCRTVVNWJpN3dxQmd3bW9vWFhsXzFNZkY0SXR0cnRUck9tZUJaWGNGcExfNTl2UXNnR0FaYS03U0Y2dw?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "조선비즈",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNeXVsUU1GMm8yQm84UWZQa0NXOWJSSWlxckd5ZFZubWNZNElwanJMNG92enA2bFMyejlGbi0yVU85a2pZWkkyQ1hPc042bVZqa3d3emNqM3drZENHZEQzUTVsX1NDYmxxWXVRbkNxTFRSVEdUajV4SUdMRXFQNXZEYktyOV9kUUlIMTFpWVhsTDVLZFZU0gGUAUFVX3lxTE15dWxRTUYybzJCbzhRZlBrQ1c5YlJJaXFyR3lkVm5tY1k0SXBqckw0b3Z6cDZsUzJ6OUZuLTJVTzlrallaSTJDWE9zTjZtVmprd3d6Y2ozd2tkQ0dkRDNRNWxfU0NibHFZdVFuQ3FMVFJUR1RqNXhJR0xFcVA1dkRiS3I5X2RRSUgxMWlZWGxMNUtkVlQ?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "category": "금리·정책",
+      "score": 61,
+      "title": "한은, 석 달 만에 금리 인상 재개 전망…\"내년까지 긴축\"",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261121021600002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA2a2w0dkxyOERFRTZnSW0zUEJsUGtWUDZmQ0hkWnJERFlpeElnN2lwcHEzSWhFZmhILU5LYVdzZzFJaGE1RU4tSFF5bWdVczhkZDd6RjJVZmNrRVnSAWBBVV95cUxPOEFtQTczV1JEYUFMb2ZFVlk1LS1VeEFOVEhBT2RHRVhIRGx6dUxMSmVTeDBwNE5MYVVLaEN6ZkNBRVM2T0V6eXhlQ012clA5RVJVMi1MR3lJMXA2bmd4enY?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "서울경제",
+          "tier": "A",
+          "link": "https://www.sedaily.com/article/20117264",
+          "reuse": "비상업 한정 · AI 학습 금지 · 법적조치 경고 명시",
+          "restricted": true
+        },
+        {
+          "name": "뉴시스",
+          "tier": "B",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE56RTRwZ1hkLWpULWpTN1Q4eUZrdHA4Z0w2Q3FjckNadl8tSUFaTU1Cc3BEaWh6MGJnQXVyYWxQYnEySEpDWEllZHd4clZ0aFBqdUdnMEhySklmVS1VUHdtZW9DT0g4NkFrZ1hEbDhhTE1QV3ZRNDVCQtIBeEFVX3lxTE56RTRwZ1hkLWpULWpTN1Q4eUZrdHA4Z0w2Q3FjckNadl8tSUFaTU1Cc3BEaWh6MGJnQXVyYWxQYnEySEpDWEllZHd4clZ0aFBqdUdnMEhySklmVS1VUHdtZW9DT0g4NkFrZ1hEbDhhTE1QV3ZRNDVCQg?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "category": "금리·정책",
+      "score": 60,
+      "title": "한은 올해 성장 눈높이 3%대 후반 전망…\"내년 더 올릴 수도\"",
+      "card_title": null,
+      "summary": null,
+      "points": [],
+      "numbers": [],
+      "why": null,
+      "interview": null,
+      "sources": [
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://www.yna.co.kr/view/AKR20261121026100002",
+          "reuse": "확인 필요",
+          "restricted": false
+        },
+        {
+          "name": "연합뉴스",
+          "tier": "A",
+          "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFByenN5UVFzelF2MTVESWs3dm9yakloUk1SLUl3WHQzY1ZpOHRiSkNLbVowQkUwLVFhQUJmZDItdnE4eFBKenRsQVB2SVFERkRZNW9pWVhYV0FfMzTSAWBBVV95cUxNdGhTeDZvZ2R2V25YT3lyVXA0S3h2SDRVNWxzVFBtSXNsVlVzb0l0MlV6MFhZUlVHandIbnd3OXBEVE1oYWc2Mm1JTFFKUmd1Z2hyZnFuYk5KaEduNFVDS2g?oc=5",
+          "reuse": "확인 필요",
+          "restricted": false
+        }
+      ]
+    }
+  ]
+}
